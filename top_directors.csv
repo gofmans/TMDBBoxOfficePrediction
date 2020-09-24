@@ -1,0 +1,968 @@
+Position,Const,Created,Modified,Description,Name,Known For,Birth Date
+1,nm0000217,2016-11-07,2016-11-07,,Martin Scorsese,Taxi Driver,1942-11-17
+2,nm0000229,2016-11-07,2016-11-07,,Steven Spielberg,Schindler's List,1946-12-18
+3,nm0000231,2016-11-07,2016-11-07,,Oliver Stone,JFK,1946-09-15
+4,nm0000338,2016-11-07,2016-11-07,,Francis Ford Coppola,Apocalypse Now,1939-04-07
+5,nm0000233,2016-11-07,2016-11-07,,Quentin Tarantino,Reservoir Dogs,1963-03-27
+6,nm0000116,2016-11-07,2016-11-07,,James Cameron,Avatar,1954-08-16
+7,nm0000386,2016-11-07,2016-11-07,,Roland Emmerich,Independence Day,1955-11-10
+8,nm0000631,2016-11-07,2016-11-07,,Ridley Scott,The Martian,1937-11-30
+9,nm0001716,2016-11-07,2016-11-07,,Tony Scott,Domino,1944-06-21
+10,nm0000118,2016-11-07,2016-11-07,,John Carpenter,The Fog,1948-01-16
+11,nm0587518,2016-11-07,2016-11-07,,John Milius,Conan the Barbarian,1944-04-11
+12,nm0001060,2016-11-07,2016-11-07,,Chris Columbus,Harry Potter and the Sorcerer's Stone,1958-09-10
+13,nm0718645,2016-11-07,2016-11-07,,Ivan Reitman,Up in the Air,1946-10-27
+14,nm0001053,2016-11-07,2016-11-07,,Ethan Coen,The Ballad of Buster Scruggs,1957-09-21
+15,nm0001054,2016-11-07,2016-11-07,,Joel Coen,The Ballad of Buster Scruggs,1954-11-29
+16,nm0001149,2016-11-07,2016-11-07,,Richard Donner,Superman,1930-04-24
+17,nm0000709,2016-11-07,2016-11-07,,Robert Zemeckis,Back to the Future,1951-05-14
+18,nm0000814,2016-11-07,2016-11-07,,John G. Avildsen,Rocky,1935-12-21
+19,nm0004675,2016-11-07,2016-11-07,,Phil Alden Robinson,Field of Dreams,1950-03-01
+20,nm0001661,2016-11-07,2016-11-07,,Rob Reiner,All in the Family,1947-03-06
+21,nm0001628,2016-11-07,2016-11-07,,Sydney Pollack,Tootsie,1934-07-01
+22,nm0000824,2016-11-07,2016-11-07,,John Badham,WarGames,1939-08-25
+23,nm0005363,2016-11-07,2016-11-07,,Guy Ritchie,Sherlock Holmes,1968-09-10
+24,nm0001708,2016-11-07,2016-11-07,,Joel Schumacher,The Phantom of the Opera,1939-08-29
+25,nm0796117,2016-11-07,2016-11-07,,M. Night Shyamalan,Lady in the Water,1970-08-06
+26,nm0001880,2016-11-07,2016-11-07,,Edward Zwick,Thirtysomething,1952-10-08
+27,nm0775447,2016-11-07,2016-11-07,,Barbet Schroeder,La virgen de los sicarios,1941-08-26
+28,nm0001486,2016-11-07,2016-11-07,,Sidney Lumet,12 Angry Men,1924-06-25
+29,nm0721817,2016-11-07,2016-11-07,,Kevin Reynolds,Waterworld,1952-01-17
+30,nm0001047,2016-11-07,2016-11-07,,Michael Cimino,The Deer Hunter,1939-02-03
+31,nm0000165,2016-11-07,2016-11-07,,Ron Howard,Arrested Development,1954-03-01
+32,nm0000134,2016-11-07,2016-11-07,,Robert De Niro,Raging Bull,1943-08-17
+33,nm0000126,2016-11-07,2016-11-07,,Kevin Costner,The Postman,1955-01-18
+34,nm0001873,2016-11-07,2016-11-07,,Steven Zaillian,Schindler's List,1953-01-30
+35,nm0000040,2016-11-07,2016-11-07,,Stanley Kubrick,2001: A Space Odyssey,1928-07-26
+36,nm0000941,2016-11-07,2016-11-07,,Kathryn Bigelow,The Hurt Locker,1951-11-27
+37,nm0782384,2016-11-07,2016-11-07,,Susan Seidelman,Desperately Seeking Susan,1952-12-11
+38,nm0187769,2016-11-07,2016-11-07,,Charles Crichton,A Fish Called Wanda,1910-08-06
+39,nm0601382,2016-11-07,2016-11-07,,John Moore,Max Payne,
+40,nm0000915,2016-11-07,2016-11-07,,Bruce Beresford,'Breaker' Morant,1940-08-16
+41,nm0000343,2016-11-07,2016-11-07,,David Cronenberg,The Fly,1943-03-15
+42,nm0213139,2016-11-07,2016-11-07,,James Dearden,Fatal Attraction,1949-09-14
+43,nm0001338,2016-11-07,2016-11-07,,Brian Helgeland,A Knight's Tale,1961-01-17
+44,nm1597629,2016-11-07,2016-11-07,,Yaron Zilberman,Incitement,1966-10-02
+45,nm0001508,2016-11-07,2016-11-07,,Penny Marshall,Laverne & Shirley,1943-10-15
+46,nm0000965,2016-11-07,2016-11-07,,Danny Boyle,127 Hours,1956-10-20
+47,nm0000614,2016-11-07,2016-11-07,,Alan Rickman,Die Hard,1946-02-21
+48,nm0154312,2016-11-07,2016-11-07,,Pascal Chaumeil,L'arnacoeur,1961-02-09
+49,nm0336620,2016-11-07,2016-11-07,,F. Gary Gray,Set It Off,1969-07-17
+50,nm0935863,2016-11-07,2016-11-07,,Michael Winterbottom,A Mighty Heart,1961-03-29
+51,nm0532235,2016-11-07,2016-11-07,,Seth MacFarlane,Family Guy,1973-10-26
+52,nm1170855,2016-11-07,2016-11-07,,J.C. Chandor,A Most Violent Year,
+53,nm0179221,2016-11-07,2016-11-07,,Anton Corbijn,Control,1955-05-20
+54,nm0508208,2016-11-07,2016-11-07,,Fernando León de Aranoa,A Perfect Day,1968-05-26
+55,nm0878638,2016-11-07,2016-11-07,,David Twohy,The Fugitive,1955-10-18
+56,nm0001112,2016-11-07,2016-11-07,,Andrew Davis,The Fugitive,1946-11-21
+57,nm0388198,2016-11-07,2016-11-07,,Mike Hodges,Flash Gordon,1932-07-29
+58,nm0000142,2016-11-07,2016-11-07,,Clint Eastwood,Unforgiven,1930-05-31
+59,nm0000602,2016-11-07,2016-11-07,,Robert Redford,The Natural,1936-08-18
+60,nm0004886,2016-11-07,2016-11-07,,Bill Duke,Predator,1943-02-26
+61,nm0412465,2016-11-07,2016-11-07,,James Ivory,Call Me by Your Name,1928-06-07
+62,nm0180912,2016-11-07,2016-11-07,,Michael Corrente,Federal Hill,1959-04-06
+63,nm0000600,2016-11-07,2016-11-07,,Sam Raimi,Spider-Man,1959-10-23
+64,nm1053530,2016-11-07,2016-11-07,,Tom Ford,A Single Man,1961-08-27
+65,nm0602104,2016-11-07,2016-11-07,,Jocelyn Moorhouse,The Dressmaker,1960-09-04
+66,nm0291082,2016-11-07,2016-11-07,,Scott Frank,Logan,1960-03-10
+67,nm0000778,2016-11-07,2016-11-07,,Alfonso Arau,Como agua para chocolate,1932-01-11
+68,nm0919363,2016-11-07,2016-11-07,,Chris Weitz,About a Boy,1969-11-30
+69,nm0919369,2016-11-07,2016-11-07,,Paul Weitz,About a Boy,1965-11-19
+70,nm0668247,2016-11-07,2016-11-07,,Alexander Payne,Nebraska,1961-02-10
+71,nm0000907,2016-11-07,2016-11-07,,Richard Benjamin,Westworld,1938-05-22
+72,nm0001402,2016-11-07,2016-11-07,,Terry Jones,Monty Python and the Holy Grail,1942-02-01
+73,nm0193485,2016-11-07,2016-11-07,,Richard Curtis,Love Actually,1956-11-08
+74,nm0001241,2016-11-07,2016-11-07,,Stephen Frears,Dangerous Liaisons,1941-06-20
+75,nm0001723,2016-11-07,2016-11-07,,Tom Shadyac,The Nutty Professor,1958-12-11
+76,nm0644203,2016-11-07,2016-11-07,,Steve Oedekerk,Kung Pow: Enter the Fist,1961-11-27
+77,nm0062644,2016-11-07,2016-11-07,,Craig R. Baxley,Action Jackson,1949-10-20
+78,nm0000431,2016-11-07,2016-11-07,,Taylor Hackford,Ray,1944-12-31
+79,nm0476201,2016-11-07,2016-11-07,,Karyn Kusama,The Invitation,1968-03-21
+80,nm0001165,2016-11-07,2016-11-07,,Charles S. Dutton,Alien³,1951-01-30
+81,nm0711840,2016-11-07,2016-11-07,,Brett Ratner,Red Dragon,1969-03-28
+82,nm0000583,2016-11-07,2016-11-07,,Wolfgang Petersen,Das Boot,1941-03-14
+83,nm0000776,2016-11-07,2016-11-07,,Michael Apted,Rome,1941-02-10
+84,nm0024622,2016-11-07,2016-11-07,,Alejandro Amenábar,The Others,1972-03-31
+85,nm0006854,2016-11-07,2016-11-07,,Roger Spottiswoode,48 Hrs.,1945-01-05
+86,nm0499724,2016-11-07,2016-11-07,,Michael Lehmann,Hudson Hawk,1957-03-30
+87,nm0000228,2016-11-07,2016-11-07,,Kevin Spacey,The Usual Suspects,1959-07-26
+88,nm0796124,2016-11-07,2016-11-07,,Charles Shyer,Alfie,1941-10-11
+89,nm0314584,2016-11-07,2016-11-07,,Pietro Germi,Il ferroviere,1914-09-14
+90,nm0000520,2016-11-07,2016-11-07,,Michael Mann,The Insider,1943-02-05
+91,nm0000318,2016-11-07,2016-11-07,,Tim Burton,Edward Scissorhands,1958-08-25
+92,nm0617042,2016-11-07,2016-11-07,,Mark Mylod,Succession,
+93,nm0000466,2016-11-07,2016-11-07,,Jean-Pierre Jeunet,Un long dimanche de fiançailles,1953-09-03
+94,nm0027271,2016-11-07,2016-11-07,,Paul W.S. Anderson,Resident Evil: Apocalypse,1965-03-04
+95,nm0550881,2016-11-07,2016-11-07,,Frank Marshall,Congo,1946-09-13
+96,nm1285613,2016-11-07,2016-11-07,,Andrew Jarecki,Capturing the Friedmans,
+97,nm0005348,2016-11-07,2016-11-07,,Carl Reiner,Ocean's Eleven,1922-03-20
+98,nm0002080,2016-11-07,2016-11-07,,Bob Fosse,Cabaret,1927-06-23
+99,nm0000455,2016-11-07,2016-11-07,,John Hughes,"Planes, Trains & Automobiles",1950-02-18
+100,nm0000671,2016-11-07,2016-11-07,,Billy Bob Thornton,Sling Blade,1955-08-04
+101,nm0001081,2016-11-07,2016-11-07,,Cameron Crowe,Almost Famous,1957-07-13
+102,nm0240797,2016-11-07,2016-11-07,,Dennis Dugan,Happy Gilmore,1946-09-05
+103,nm0093051,2016-11-07,2016-11-07,,Uwe Boll,Postal,1965-06-22
+104,nm0848414,2016-11-07,2016-11-07,,Lee Tamahori,Once Were Warriors,1950-04-22
+105,nm0357453,2016-11-07,2016-11-07,,John Hamburg,Little Fockers,1970-05-26
+106,nm0619762,2016-11-07,2016-11-07,,Mira Nair,Salaam Bombay!,1957-10-15
+107,nm0001024,2016-11-07,2016-11-07,,Nick Cassavetes,Face/Off,1959-05-21
+108,nm0001232,2016-11-07,2016-11-07,,Milos Forman,One Flew Over the Cuckoo's Nest,1932-02-18
+109,nm0000591,2016-11-07,2016-11-07,,Roman Polanski,Chinatown,1933-08-18
+110,nm0005387,2016-11-07,2016-11-07,,Joe Roth,The Great Debaters,1948-06-13
+111,nm0005222,2016-11-07,2016-11-07,,Sam Mendes,1917,1965-08-01
+112,nm0001707,2016-11-07,2016-11-07,,Paul Schrader,First Reformed,1946-07-22
+113,nm0000184,2016-11-07,2016-11-07,,George Lucas,Star Wars,1944-05-14
+114,nm0443411,2016-11-07,2016-11-07,,Tony Kaye,Detachment,
+115,nm0751102,2016-11-07,2016-11-07,,David O. Russell,American Hustle,1958-08-20
+116,nm0562645,2016-11-07,2016-11-07,,Les Mayfield,Blue Streak,
+117,nm0366004,2016-11-07,2016-11-07,,Mary Harron,American Psycho,1953-01-12
+118,nm0813309,2016-11-07,2016-11-07,,Courtney Solomon,Dungeons & Dragons,1971-09-01
+119,nm0000484,2016-11-07,2016-11-07,,John Landis,The Blues Brothers,1950-08-03
+120,nm0909026,2016-11-07,2016-11-07,,Anthony Waller,An American Werewolf in Paris,1959-10-24
+121,nm0002120,2016-11-07,2016-11-07,,Lasse Hallström,What's Eating Gilbert Grape,1946-06-02
+122,nm0515891,2016-11-07,2016-11-07,,Luis Llosa,Anaconda,
+123,nm0000601,2016-11-07,2016-11-07,,Harold Ramis,Ghostbusters,1944-11-21
+124,nm0422484,2016-11-07,2016-11-07,,Norman Jewison,In the Heat of the Night,1926-07-21
+125,nm0570912,2016-11-07,2016-11-07,,Adam McKay,The Other Guys,1968-04-17
+126,nm1259604,2016-11-07,2016-11-07,,Marcos Efron,The Pink Chateau,
+127,nm0001502,2016-11-07,2016-11-07,,Luis Mandoki,Voces inocentes,
+128,nm0875793,2016-11-07,2016-11-07,,Anand Tucker,Girl with a Pearl Earring,1963-06-24
+129,nm0000570,2016-11-07,2016-11-07,,Alan Parker,Evita,1944-02-14
+130,nm0781842,2016-11-07,2016-11-07,,Peter Segal,Get Smart,
+131,nm0000095,2016-11-07,2016-11-07,,Woody Allen,Manhattan,1935-12-01
+132,nm0855035,2016-11-07,2016-11-07,,Andy Tennant,Fool's Gold,1955-06-15
+133,nm0510912,2016-11-07,2016-11-07,,Justin Lin,Furious 6,1971-10-11
+134,nm0680629,2016-11-07,2016-11-07,,Maurice Phillips,The American Way,1948-03-25
+135,nm0398185,2016-11-07,2016-11-07,,Peter Howitt,Sliding Doors,1957-05-05
+136,nm0000438,2016-11-07,2016-11-07,,Ed Harris,The Truman Show,1950-11-28
+137,nm0000154,2016-11-07,2016-11-07,,Mel Gibson,Braveheart,1956-01-03
+138,nm0671210,2016-11-07,2016-11-07,,Mark Pellington,Arlington Road,1962-03-17
+139,nm0000881,2016-11-07,2016-11-07,,Michael Bay,Armageddon,1965-02-17
+140,nm0030735,2016-11-07,2016-11-07,,Nimród Antal,Kontroll,1973-11-30
+141,nm0178997,2016-11-07,2016-11-07,,Frank Coraci,The Wedding Singer,1966-02-03
+142,nm0122653,2016-11-07,2016-11-07,,Edward Burns,Saving Private Ryan,1968-01-29
+143,nm0000985,2016-11-07,2016-11-07,,James L. Brooks,Broadcast News,1940-05-09
+144,nm0122335,2016-11-07,2016-11-07,,Allison Burnett,Autumn in New York,1958-12-16
+145,nm0000380,2016-11-07,2016-11-07,,Robert Duvall,The Apostle,1931-01-05
+146,nm0533284,2016-11-07,2016-11-07,,David Mackenzie,Hell or High Water,1966-05-10
+147,nm0005563,2016-11-07,2016-11-07,,Irwin Winkler,Life as a House,1931-05-28
+148,nm0942504,2016-11-07,2016-11-07,,Joe Wright,Pride & Prejudice,1972-08-25
+149,nm0525303,2016-11-07,2016-11-07,,Baz Luhrmann,Moulin Rouge!,1962-09-17
+150,nm0504802,2016-11-07,2016-11-07,,Sheldon Lettich,Max,1951-01-14
+151,nm0440913,2016-11-07,2016-11-07,,Mathieu Kassovitz,Le fabuleux destin d'Amélie Poulain,1967-08-03
+152,nm0327944,2016-11-07,2016-11-07,,Alejandro G. Iñárritu,Biutiful,1963-08-15
+153,nm0005436,2016-11-07,2016-11-07,,John Singleton,Boyz n the Hood,1968-01-06
+154,nm0742819,2016-11-07,2016-11-07,,Rick Rosenthal,Bad Boys,1949-06-15
+155,nm0001206,2016-11-07,2016-11-07,,Abel Ferrara,Bad Lieutenant,1951-07-19
+156,nm0146062,2016-11-07,2016-11-07,,Gilbert Cates,I Never Sang for My Father,1934-06-06
+157,nm0438279,2016-11-07,2016-11-07,,Jonathan Kaplan,The Accused,1947-11-25
+158,nm0000436,2016-11-07,2016-11-07,,Curtis Hanson,L.A. Confidential,1945-03-24
+159,nm0001348,2016-11-07,2016-11-07,,Werner Herzog,"Aguirre, der Zorn Gottes",1942-09-05
+160,nm0831557,2016-11-07,2016-11-07,,Nicholas Stoller,The Muppets,1976-03-19
+161,nm0440458,2016-11-07,2016-11-07,,Jake Kasdan,Walk Hard: The Dewey Cox Story,1974-10-28
+162,nm0847859,2016-11-07,2016-11-07,,David E. Talbert,Almost Christmas,
+163,nm0001469,2016-11-07,2016-11-07,,Barry Levinson,Rain Man,1942-04-06
+164,nm0389514,2016-11-07,2016-11-07,,David Hogan,Batman Forever,
+165,nm1103162,2016-11-07,2016-11-07,,Tim Story,Fantastic Four,1970-03-13
+166,nm0001532,2016-11-07,2016-11-07,,John McTiernan,Die Hard,1951-01-08
+167,nm0000682,2016-11-07,2016-11-07,,Paul Verhoeven,Zwartboek,1938-07-18
+168,nm0634240,2016-11-07,2016-11-07,,Christopher Nolan,Interstellar,1970-07-30
+169,nm0002337,2016-11-07,2016-11-07,,Roger Christian,Star Wars,1944-02-25
+170,nm0005190,2016-11-07,2016-11-07,,Garry Marshall,Never Been Kissed,1934-11-13
+171,nm0000316,2016-11-07,2016-11-07,,Mel Brooks,Spaceballs,1926-06-28
+172,nm0809321,2016-11-07,2016-11-07,,Mel Smith,The Princess Bride,1952-12-03
+173,nm0505152,2016-11-07,2016-11-07,,Brian Levant,Still the Beaver,1952-08-06
+174,nm0423646,2016-11-07,2016-11-07,,Roland Joffé,The Mission,1945-11-17
+175,nm0000500,2016-11-07,2016-11-07,,Richard Linklater,Waking Life,1960-07-30
+176,nm0262635,2016-11-07,2016-11-07,,Chris Evans,The Avengers,1981-06-13
+177,nm0138809,2016-11-07,2016-11-07,,John Carney,Sing Street,
+178,nm0005069,2016-11-07,2016-11-07,,Spike Jonze,Her,1969-10-22
+179,nm0000490,2016-11-07,2016-11-07,,Spike Lee,Do the Right Thing,1957-03-20
+180,nm0155642,2016-11-07,2016-11-07,,Siu-Tung Ching,Ying xiong,
+181,nm0149446,2016-11-07,2016-11-07,,Gurinder Chadha,Bend It Like Beckham,1960-01-10
+182,nm0002020,2016-11-07,2016-11-07,,Costa-Gavras,Missing,1933-02-12
+183,nm0000976,2016-11-07,2016-11-07,,Martin Brest,Scent of a Woman,1951-08-08
+184,nm0001188,2016-11-07,2016-11-07,,Nora Ephron,Julie & Julia,1941-05-19
+185,nm1914394,2016-11-07,2016-11-07,,Timothy Woodward Jr.,The Final Wish,
+186,nm0000740,2016-11-07,2016-11-07,,Irwin Allen,The Towering Inferno,1916-06-12
+187,nm1515266,2016-11-07,2016-11-07,,Jean-Baptiste Léonetti,Carré blanc,
+188,nm0000720,2016-11-07,2016-11-07,,Jim Abrahams,Airplane!,1944-05-10
+189,nm0331532,2016-11-07,2016-11-07,,Raja Gosnell,Big Momma's House,1958-12-09
+190,nm0378893,2016-11-07,2016-11-07,,Stephen Herek,Critters,1958-11-10
+191,nm0000914,2016-11-07,2016-11-07,,Robert Benton,Kramer vs. Kramer,1932-09-29
+192,nm0205542,2016-11-07,2016-11-07,,Tamra Davis,Crossroads,1962-01-22
+193,nm0322242,2016-11-07,2016-11-07,,Jonathan Glazer,Under the Skin,1965-03-26
+194,nm0125336,2016-11-07,2016-11-07,,Jez Butterworth,Edge of Tomorrow,
+195,nm0112218,2016-11-07,2016-11-07,,Richard Brooks,Cat on a Hot Tin Roof,1912-05-18
+196,nm0178376,2016-11-07,2016-11-07,,Scott Cooper,Crazy Heart,
+197,nm0108132,2016-11-07,2016-11-07,,Craig Brewer,Hustle & Flow,1971-12-06
+198,nm0004716,2016-11-07,2016-11-07,,Darren Aronofsky,Pi,1969-02-12
+199,nm0692872,2016-11-07,2016-11-07,,Ted Post,Beneath the Planet of the Apes,1918-03-31
+200,nm0706182,2016-11-07,2016-11-07,,Bob Rafelson,Five Easy Pieces,1933-02-21
+201,nm0333060,2016-11-07,2016-11-07,,David S. Goyer,Dark City,1965-12-22
+202,nm0001175,2016-11-07,2016-11-07,,Blake Edwards,The Pink Panther Strikes Again,1922-07-26
+203,nm0005421,2016-11-07,2016-11-07,,Ron Shelton,Bull Durham,1945-09-15
+204,nm0933505,2016-11-07,2016-11-07,,Hugh Wilson,Blast from the Past,1943-08-24
+205,nm0817447,2016-11-07,2016-11-07,,Will Speck,Office Christmas Party,
+206,nm0637518,2016-11-07,2016-11-07,,Phillip Noyce,Rabbit-Proof Fence,1950-04-29
+207,nm0369635,2016-11-07,2016-11-07,,Michael Haussman,The Audition,
+208,nm0133899,2016-11-07,2016-11-07,,Guillaume Canet,Jeux d'enfants,1973-04-10
+209,nm0001130,2016-11-07,2016-11-07,,Ted Demme,Blow,1963-10-26
+210,nm0000361,2016-11-07,2016-11-07,,Brian De Palma,Dressed to Kill,1940-09-11
+211,nm0394280,2016-11-07,2016-11-07,,Stephen Hopkins,Lost in Space,
+212,nm0001243,2016-11-07,2016-11-07,,William Friedkin,The French Connection,1935-08-29
+213,nm0000186,2016-11-07,2016-11-07,,David Lynch,Twin Peaks,1946-01-20
+214,nm0001410,2016-11-07,2016-11-07,,Lawrence Kasdan,The Big Chill,1949-01-14
+215,nm0248942,2016-11-07,2016-11-07,,Uli Edel,Der Baader Meinhof Komplex,1947-04-11
+216,nm0001135,2016-11-07,2016-11-07,,John Derek,The Ten Commandments,1926-08-12
+217,nm0399737,2016-11-07,2016-11-07,,Reginald Hudlin,House Party,1961-12-15
+218,nm0153078,2016-11-07,2016-11-07,,Larry Charles,Seinfeld,1956-12-01
+219,nm0620471,2016-11-07,2016-11-07,,Rodion Nahapetov,Russkie v Gorode Angelov,1944-01-21
+220,nm0740400,2016-11-07,2016-11-07,,Don Roos,The Opposite of Sex,1955-04-14
+221,nm0000568,2016-11-07,2016-11-07,,Frank Oz,The Muppet Show,1944-05-25
+222,nm0528337,2016-11-07,2016-11-07,,Jennifer Lynch,Boxing Helena,1968-04-07
+223,nm0005303,2016-11-07,2016-11-07,,Kimberly Peirce,Boys Don't Cry,1967-09-08
+224,nm0006889,2016-11-07,2016-11-07,,Herbert Ross,The Turning Point,1927-05-13
+225,nm0622112,2016-11-07,2016-11-07,,Vincenzo Natali,Cube,1969-01-06
+226,nm0379179,2016-11-07,2016-11-07,,Mark Herman,The Boy in the Striped Pyjamas,
+227,nm0712753,2016-11-07,2016-11-07,,Billy Ray,Shattered Glass,
+228,nm0609236,2016-11-07,2016-11-07,,Jonathan Mostow,Terminator 3: Rise of the Machines,1961-11-28
+229,nm0748928,2016-11-07,2016-11-07,,Alan Rudolph,Trouble in Mind,1943-12-18
+230,nm0005237,2016-11-07,2016-11-07,,Anthony Minghella,The Talented Mr. Ripley,1954-01-06
+231,nm0001885,2016-11-07,2016-11-07,,Lars von Trier,Dancer in the Dark,1956-04-30
+232,nm0001353,2016-11-07,2016-11-07,,Walter Hill,48 Hrs.,1942-01-10
+233,nm0935095,2016-11-07,2016-11-07,,Gary Winick,Tadpole,1961-03-31
+234,nm0082450,2016-11-07,2016-11-07,,Paul Feig,Freaks and Geeks,1962-09-17
+235,nm0536632,2016-11-07,2016-11-07,,Sharon Maguire,Bridget Jones's Baby,1960-11-28
+236,nm0788202,2016-11-07,2016-11-07,,Adam Shankman,Hairspray,1964-11-27
+237,nm0000487,2016-11-07,2016-11-07,,Ang Lee,Wo hu cang long,1954-10-23
+238,nm0000247,2016-11-07,2016-11-07,,John Woo,Ying hung boon sik,1946-09-22
+239,nm0400441,2016-11-07,2016-11-07,,Allen Hughes,The Book of Eli,1972-04-01
+240,nm0000464,2016-11-07,2016-11-07,,Jim Jarmusch,Broken Flowers,1953-01-22
+241,nm0716347,2016-11-07,2016-11-07,,Nicolas Winding Refn,The Neon Demon,1970-09-29
+242,nm1259871,2016-11-07,2016-11-07,,John Crowley,Brooklyn,1969-08-19
+243,nm0298807,2016-11-07,2016-11-07,,Antoine Fuqua,The Magnificent Seven,1965-05-30
+244,nm0006487,2016-11-07,2016-11-07,,Jim Sheridan,In America,1949-02-06
+245,nm0001252,2016-11-07,2016-11-07,,Vincent Gallo,Buffalo '66,1961-04-11
+246,nm0854697,2016-11-07,2016-11-07,,Julien Temple,Earth Girls Are Easy,1953-11-26
+247,nm0225416,2016-11-07,2016-11-07,,Ernest R. Dickerson,Do the Right Thing,1951-06-25
+248,nm0000230,2016-11-07,2016-11-07,,Sylvester Stallone,Rocky,1946-07-06
+249,nm0000886,2016-11-07,2016-11-07,,Warren Beatty,Bonnie and Clyde,1937-03-30
+250,nm0181579,2016-11-07,2016-11-07,,Rodrigo Cortés,Buried,
+251,nm0800533,2016-11-07,2016-11-07,,Yves Simoneau,Napoléon,1955-10-28
+252,nm0337773,2016-11-07,2016-11-07,,David Gordon Green,Halloween,1975-04-09
+253,nm0337765,2016-11-07,2016-11-07,,David Green,Buster,1948-11-12
+254,nm0001351,2016-11-07,2016-11-07,,George Roy Hill,The Sting,1921-12-20
+255,nm0065608,2016-11-07,2016-11-07,,Walt Becker,Old Dogs,1968-09-16
+256,nm0002044,2016-11-07,2016-11-07,,Roger Donaldson,The World's Fastest Indian,1945-11-15
+257,nm0624102,2016-11-07,2016-11-07,,Hal Needham,Smokey and the Bandit,1931-03-06
+258,nm0170719,2016-11-07,2016-11-07,,Nigel Cole,Saving Grace,
+259,nm0711114,2016-11-07,2016-11-07,,Steve Rash,Can't Buy Me Love,
+260,nm0006960,2016-11-07,2016-11-07,,John Madden,Shakespeare in Love,1949-04-08
+261,nm0573796,2016-11-07,2016-11-07,,John McNaughton,Henry: Portrait of a Serial Killer,1950-01-13
+262,nm0587955,2016-11-07,2016-11-07,,Bennett Miller,Foxcatcher,1966-12-30
+263,nm0339030,2016-11-07,2016-11-07,,Paul Greengrass,United 93,1955-08-13
+264,nm0248054,2016-11-07,2016-11-07,,Thom Eberhardt,Without a Clue,1947-03-07
+265,nm0691078,2016-11-07,2016-11-07,,Angela Pope,Hollow Reed,
+266,nm0020491,2016-11-07,2016-11-07,,Elizabeth Allen Rosenbaum,Dead to Me,
+267,nm1883612,2016-11-07,2016-11-07,,Àlex Pastor,Los últimos días,1981-03-13
+268,nm0023355,2016-11-07,2016-11-07,,Christian Alvart,Pandorum,1974-05-28
+269,nm0132709,2016-11-07,2016-11-07,,Martin Campbell,Casino Royale,1943-10-24
+270,nm0797869,2016-11-07,2016-11-07,,Brad Silberling,City of Angels,1963-09-08
+271,nm0685759,2016-11-07,2016-11-07,,Pitof,Vidocq,1957-07-04
+272,nm0254786,2016-11-07,2016-11-07,,David R. Ellis,The Matrix Reloaded,1952-09-08
+273,nm0585011,2016-11-07,2016-11-07,,Roger Michell,Notting Hill,1956-06-05
+274,nm0317638,2016-11-07,2016-11-07,,Tony Giglio,Chaos,1971-06-03
+275,nm0399853,2016-11-07,2016-11-07,,Hugh Hudson,Chariots of Fire,1936-08-25
+276,nm0001566,2016-11-07,2016-11-07,,Mike Nichols,The Graduate,1931-11-06
+277,nm0629334,2016-11-07,2016-11-07,,McG,Charlie's Angels: Full Throttle,1968-08-09
+278,nm0000788,2016-11-07,2016-11-07,,Gillian Armstrong,Little Women,1950-12-18
+279,nm0003620,2016-11-07,2016-11-07,,Kevin Smith,Clerks,1970-08-02
+280,nm0506613,2016-11-07,2016-11-07,,Shawn Levy,Arrival,1968-07-23
+281,nm0551128,2016-11-07,2016-11-07,,Rob Marshall,Chicago,1960-10-17
+282,nm1174251,2016-11-07,2016-11-07,,Daniel Espinosa,Snabba cash,1977-03-23
+283,nm0276169,2016-11-07,2016-11-07,,Tom Holland,Fright Night,1943-07-11
+284,nm0354279,2016-11-07,2016-11-07,,Randa Haines,Antwone Fisher,1945-02-20
+285,nm0190859,2016-11-07,2016-11-07,,Alfonso Cuarón,Gravity,1961-11-28
+286,nm0001994,2016-11-07,2016-11-07,,Michael Caton-Jones,Memphis Belle,1957-10-15
+287,nm0881038,2016-11-07,2016-11-07,,Ron Underwood,Tremors,1953-11-06
+288,nm0229694,2016-11-07,2016-11-07,,David Dobkin,The Judge,1969-06-23
+289,nm0001317,2016-11-07,2016-11-07,,Renny Harlin,Die Hard 2,1959-03-15
+290,nm0000277,2016-11-07,2016-11-07,,Richard Attenborough,Jurassic Park,1923-08-29
+291,nm0000801,2016-11-07,2016-11-07,,Olivier Assayas,Personal Shopper,1955-01-25
+292,nm0002132,2016-11-07,2016-11-07,,Amy Heckerling,Clueless,1954-05-07
+293,nm0141961,2016-11-07,2016-11-07,,Thomas Carter,Coach Carter,1953-07-17
+294,nm0181902,2016-11-07,2016-11-07,,George P. Cosmatos,Rambo: First Blood Part II,1941-01-04
+295,nm0001214,2016-11-07,2016-11-07,,Mike Figgis,Leaving Las Vegas,1948-02-28
+296,nm0576298,2016-11-07,2016-11-07,,Olivier Megaton,Transporter 3,1965-08-06
+297,nm0750701,2016-11-07,2016-11-07,,Richard Rush,The Stunt Man,1929-04-15
+298,nm0000454,2016-11-07,2016-11-07,,Dennis Hopper,Easy Rider,1936-05-17
+299,nm0504495,2016-11-07,2016-11-07,,Mark L. Lester,Firestarter,1946-11-26
+300,nm0168079,2016-11-07,2016-11-07,,Egidio Coccimiglio,Compulsion,
+301,nm0922346,2016-11-07,2016-11-07,,Simon West,Lara Croft: Tomb Raider,
+302,nm0281507,2016-11-07,2016-11-07,,Richard Fleischer,Soylent Green,1916-12-08
+303,nm0000123,2016-11-07,2016-11-07,,George Clooney,Michael Clayton,1961-05-06
+304,nm0001226,2016-11-07,2016-11-07,,James Foley,At Close Range,1953-12-28
+305,nm1349376,2016-11-07,2016-11-07,,Francis Lawrence,The Hunger Games: Catching Fire,1971-03-26
+306,nm0003506,2016-11-07,2016-11-07,,James Mangold,Logan,1963-12-16
+307,nm0001752,2016-11-07,2016-11-07,,Steven Soderbergh,"Sex, Lies, and Videotape",1963-01-14
+308,nm0000146,2016-11-07,2016-11-07,,Ralph Fiennes,The Grand Budapest Hotel,1962-12-22
+309,nm0001282,2016-11-07,2016-11-07,,Tony Goldwyn,Ghost,1960-05-20
+310,nm0000750,2016-11-07,2016-11-07,,Jon Amiel,Copycat,1948-05-20
+311,nm0669004,2016-11-07,2016-11-07,,Richard Pearce,Heartland,1943-01-25
+312,nm0573589,2016-11-07,2016-11-07,,David McNally,Coyote Ugly,
+313,nm0005647,2016-11-07,2016-11-07,,Andrzej Bartkowiak,Falling Down,1950-03-06
+314,nm0000209,2016-11-07,2016-11-07,,Tim Robbins,Mystic River,1958-10-16
+315,nm0004410,2016-11-07,2016-11-07,,Mark Neveldine,Gamer,1973-05-11
+316,nm0353673,2016-11-07,2016-11-07,,Paul Haggis,Crash,1953-03-10
+317,nm3363032,2016-11-07,2016-11-07,,Ryan Coogler,Black Panther,1986-05-23
+318,nm1247462,2016-11-07,2016-11-07,,Christopher Smith,Triangle,
+319,nm0355097,2016-11-07,2016-11-07,,Jackie Earle Haley,Watchmen,1961-07-14
+320,nm0469694,2016-11-07,2016-11-07,,Wayne Kramer,The Cooler,
+321,nm0474955,2016-11-07,2016-11-07,,Roger Kumble,Cruel Intentions,1966-05-28
+322,nm0000127,2016-11-07,2016-11-07,,Wes Craven,A Nightmare on Elm Street,1939-08-02
+323,nm0001501,2016-11-07,2016-11-07,,Louis Malle,Au revoir les enfants,1932-10-30
+324,nm0304521,2016-11-07,2016-11-07,,Christophe Gans,Le pacte des loups,1960-03-11
+325,nm0373282,2016-11-07,2016-11-07,,Peter Hedges,About a Boy,1962-07-06
+326,nm0380980,2016-11-07,2016-11-07,,Marshall Herskovitz,Thirtysomething,1952-02-23
+327,nm0808807,2016-11-07,2016-11-07,,John N. Smith,Sitting in Limbo,1943-07-31
+328,nm1557594,2016-11-07,2016-11-07,,Dan Fogelman,This Is Us,
+329,nm0425756,2016-11-07,2016-11-07,,Mark Steven Johnson,Finding Steve McQueen,1964-10-30
+330,nm0660707,2016-11-07,2016-11-07,,Gilles Paquet-Brenner,Dark Places,
+331,nm0758574,2016-11-07,2016-11-07,,Walter Salles,Central do Brasil,1956-04-12
+332,nm0000517,2016-11-07,2016-11-07,,Terrence Malick,Days of Heaven,1943-11-30
+333,nm0000110,2016-11-07,2016-11-07,,Kenneth Branagh,Henry V,1960-12-10
+334,nm0811583,2016-11-07,2016-11-07,,Zack Snyder,Wonder Woman,1966-03-01
+335,nm0003418,2016-11-07,2016-11-07,,Rob Cohen,DragonHeart,1949-03-12
+336,nm0649117,2016-11-07,2016-11-07,,Niels Arden Oplev,Män som hatar kvinnor,1961-03-26
+337,nm0001837,2016-11-07,2016-11-07,,Peter Weir,Master and Commander: The Far Side of the World,1944-08-21
+338,nm0776209,2016-11-07,2016-11-07,,Carl Schultz,"Careful, He Might Hear You",1939-09-19
+339,nm0001438,2016-11-07,2016-11-07,,Neil LaBute,In the Company of Men,1963-03-19
+340,nm0347086,2016-11-07,2016-11-07,,John Guillermin,The Towering Inferno,1925-11-11
+341,nm1490123,2016-11-07,2016-11-07,,James Wan,The Conjuring 2,1977-02-26
+342,nm0002413,2016-11-07,2016-11-07,,David Jackson,The Equalizer,
+343,nm0764776,2016-11-07,2016-11-07,,Deran Sarafian,Alien Predator,1958-01-17
+344,nm2251947,2016-11-07,2016-11-07,,Marcel Langenegger,Deception,
+345,nm0001460,2016-11-07,2016-11-07,,Mimi Leder,On the Basis of Sex,1952-01-26
+346,nm0000983,2016-11-07,2016-11-07,,Albert Brooks,Drive,1947-07-22
+347,nm0111845,2016-11-07,2016-11-07,,Adam Brooks,"Definitely, Maybe",1956-09-03
+348,nm0000958,2016-11-07,2016-11-07,,John Boorman,Excalibur,1933-01-18
+349,nm0779433,2016-11-07,2016-11-07,,Ken Scott,Delivery Man,
+350,nm0104193,2016-11-07,2016-11-07,,Marco Brambilla,Demolition Man,
+351,nm0001675,2016-11-07,2016-11-07,,Robert Rodriguez,El mariachi,1968-06-20
+352,nm0405632,2016-11-07,2016-11-07,,Mikael Håfström,Ondskan,1960-07-01
+353,nm0593610,2016-11-07,2016-11-07,,Mike Mitchell,Monsters vs. Aliens,
+354,nm0002083,2016-11-07,2016-11-07,,Carl Franklin,Out of Time,1949-04-11
+355,nm0000382,2016-11-07,2016-11-07,,Atom Egoyan,The Sweet Hereafter,1960-07-19
+356,nm0154819,2016-11-07,2016-11-07,,Jeremiah S. Chechik,Benny & Joon,
+357,nm0002089,2016-11-07,2016-11-07,,Sidney J. Furie,Superman IV: The Quest for Peace,1933-02-28
+358,nm0001915,2016-11-07,2016-11-07,,Emile Ardolino,Dirty Dancing,1943-05-09
+359,nm0796923,2016-11-07,2016-11-07,,Don Siegel,Dirty Harry,1912-10-26
+360,nm0142286,2016-11-07,2016-11-07,,D.J. Caruso,I Am Number Four,1965-01-17
+361,nm0417708,2016-11-07,2016-11-07,,Annabel Jankel,Tell It to the Bees,1955-08-01
+362,nm0858525,2016-11-07,2016-11-07,,Betty Thomas,Howard Stern,1947-07-27
+363,nm1098493,2016-11-07,2016-11-07,,Rawson Marshall Thurber,Easy A,1975-02-09
+364,nm0551076,2016-11-07,2016-11-07,,Neil Marshall,Dog Soldiers,1970-05-25
+365,nm0001219,2016-11-07,2016-11-07,,Gary Fleder,Things to Do in Denver When You're Dead,1965-12-19
+366,nm0001565,2016-11-07,2016-11-07,,Mike Newell,Four Weddings and a Funeral,1942-03-28
+367,nm0446819,2016-11-07,2016-11-07,,Richard Kelly,Donnie Darko,1975-03-28
+368,nm0662529,2016-11-07,2016-11-07,,Oliver Parker,An Ideal Husband,1960-09-06
+369,nm0007139,2016-11-07,2016-11-07,,Hark Tsui,Di renjie: Tong tian di guo,1950-02-15
+370,nm0788234,2016-11-07,2016-11-07,,John Patrick Shanley,Moonstruck,1950-10-03
+371,nm0005196,2016-11-07,2016-11-07,,Paul Mazursky,An Unmarried Woman,1930-04-25
+372,nm0715636,2016-11-07,2016-11-07,,Peyton Reed,Ant-Man,1964-07-03
+373,nm0002606,2016-11-07,2016-11-07,,David Price,Dr. Jekyll and Ms. Hyde,1961-11-17
+374,nm2411495,2016-11-07,2016-11-07,,Gary Shore,Dracula Untold,
+375,nm0527261,2016-11-07,2016-11-07,,Patrick Lussier,Drive Angry,
+376,nm0405374,2016-11-07,2016-11-07,,Hyung-rae Shim,D-War,1958-01-03
+377,nm0174374,2016-11-07,2016-11-07,,Bill Condon,Kinsey,1955-10-22
+378,nm0109359,2016-11-07,2016-11-07,,Steven Brill,Adam Sandler: 100% Fresh,1962-05-27
+379,nm0454835,2016-11-07,2016-11-07,,Jeff King,The Umbrella Academy,
+380,nm0000362,2016-11-07,2016-11-07,,Danny DeVito,Matilda,1944-11-17
+381,nm0001814,2016-11-07,2016-11-07,,Gus Van Sant,Elephant,1952-07-24
+382,nm0500444,2016-11-07,2016-11-07,,Danny Leiner,"Dude, Where's My Car?",1961-05-13
+383,nm0268380,2016-11-07,2016-11-07,,Peter Farrelly,Green Book,1956-12-17
+384,nm0006904,2016-11-07,2016-11-07,,Tony Gilroy,Michael Clayton,1956-09-11
+385,nm0614682,2016-11-07,2016-11-07,,Ryan Murphy,Glee,1965-11-09
+386,nm0510731,2016-11-07,2016-11-07,,Doug Liman,Edge of Tomorrow,1965-07-24
+387,nm0121653,2016-11-07,2016-11-07,,David J. Burke,Wiseguy,1948-11-08
+388,nm0253819,2016-11-07,2016-11-07,,Ellory Elkayem,Eight Legged Freaks,1970-08-12
+389,nm0170043,2016-11-07,2016-11-07,,Isabel Coixet,The Secret Life of Words,1960-04-09
+390,nm0101385,2016-11-07,2016-11-07,,Rob Bowman,Reign of Fire,1960-05-15
+391,nm0026442,2016-11-07,2016-11-07,,Brad Anderson,Session 9,
+392,nm0269463,2016-11-07,2016-11-07,,Jon Favreau,Chef,1966-10-19
+393,nm0001408,2016-11-07,2016-11-07,,Shekhar Kapur,Elizabeth,1945-12-06
+394,nm0088955,2016-11-07,2016-11-07,,Neill Blomkamp,District 9,1979-09-17
+395,nm0721279,2016-11-07,2016-11-07,,Franc. Reyes,The Ministers,
+396,nm0177637,2016-11-07,2016-11-07,,Greg Coolidge,Ride Along,1972-12-28
+397,nm0510674,2016-11-07,2016-11-07,,Kevin Lima,Enchanted,1962-06-12
+398,nm0155536,2016-11-07,2016-11-07,,Andy Cheng,Rush Hour 2,
+399,nm0001382,2016-11-07,2016-11-07,,Peter Hyams,2010: The Year We Make Contact,1943-07-26
+400,nm0004303,2016-11-07,2016-11-07,,Gavin Hood,Tsotsi,1963-05-12
+401,nm0000269,2016-11-07,2016-11-07,,Jean-Jacques Annaud,Der Name der Rose,1943-10-01
+402,nm0934483,2016-11-07,2016-11-07,,Kurt Wimmer,Equilibrium,
+403,nm0266777,2016-11-07,2016-11-07,,Stefen Fangmeier,The Perfect Storm,1960-12-09
+404,nm0751080,2016-11-07,2016-11-07,,Chuck Russell,The Mask,1958-05-09
+405,nm0001379,2016-11-07,2016-11-07,,John Huston,The Treasure of the Sierra Madre,1906-08-05
+406,nm0224331,2016-11-07,2016-11-07,,Andrea Di Stefano,Life of Pi,1972-12-15
+407,nm0327273,2016-11-07,2016-11-07,,Michel Gondry,Eternal Sunshine of the Spotless Mind,1963-05-08
+408,nm0005759,2016-11-07,2016-11-07,,Lajos Koltai,La leggenda del pianista sull'oceano,1946-04-02
+409,nm0466349,2016-11-07,2016-11-07,,Baltasar Kormákur,Mýrin,1966-02-27
+410,nm3656297,2016-11-07,2016-11-07,,Dan Rush,Everything Must Go,
+411,nm0000829,2016-11-07,2016-11-07,,Stuart Baird,Skyfall,1947-01-14
+412,nm0431918,2016-11-07,2016-11-07,,Mike Judge,Beavis and Butt-Head Do America,1962-10-17
+413,nm0891114,2016-11-07,2016-11-07,,Tom Vaughan,Victoria,1969-09-05
+414,nm0950001,2016-11-07,2016-11-07,,Robert M. Young,Alambrista!,1924-11-22
+415,nm0772259,2016-11-07,2016-11-07,,John Schlesinger,Midnight Cowboy,1926-02-16
+416,nm0449984,2016-11-07,2016-11-07,,Irvin Kershner,Star Wars: Episode V - The Empire Strikes Back,1923-04-29
+417,nm0946811,2016-11-07,2016-11-07,,Peter Yates,Krull,1929-07-24
+418,nm0000944,2016-11-07,2016-11-07,,Antonia Bird,Priest,1951-05-27
+419,nm0357584,2016-11-07,2016-11-07,,Bent Hamer,Salmer fra kjøkkenet,1956-12-18
+420,nm0223359,2016-11-07,2016-11-07,,Tom Dey,Shanghai Noon,1965-04-14
+421,nm0387706,2016-11-07,2016-11-07,,Gregory Hoblit,Hill Street Blues,1944-11-27
+422,nm0001331,2016-11-07,2016-11-07,,Todd Haynes,Far from Heaven,1961-01-02
+423,nm0043214,2016-11-07,2016-11-07,,Meiert Avis,Bob Dylan: Series of Dreams,
+424,nm0863387,2016-11-07,2016-11-07,,George Tillman Jr.,The Hate U Give,1969-01-26
+425,nm0001490,2016-11-07,2016-11-07,,Adrian Lyne,Jacob's Ladder,1941-03-04
+426,nm0740213,2016-11-07,2016-11-07,,Darrell Roodt,Yesterday,1962-04-28
+427,nm0639328,2016-11-07,2016-11-07,,Rockne S. O'Bannon,Farscape,1955-01-12
+428,nm0000416,2016-11-07,2016-11-07,,Terry Gilliam,Brazil,1940-11-22
+429,nm0006846,2016-11-07,2016-11-07,,Ric Roman Waugh,Felon,1968-02-20
+430,nm0770961,2016-11-07,2016-11-07,,Fred Schepisi,Empire Falls,1939-12-26
+431,nm0950000,2016-11-07,2016-11-07,,Robert Young,Splitting Heirs,1933-03-16
+432,nm0000399,2016-11-07,2016-11-07,,David Fincher,Se7en,1962-08-28
+433,nm1996918,2016-11-07,2016-11-07,,Dito Montiel,A Guide to Recognizing Your Saints,1965-07-26
+434,nm0423333,2016-11-07,2016-11-07,,Phil Joanou,State of Grace,1961-11-20
+435,nm0286975,2016-11-07,2016-11-07,,Marc Forster,World War Z,1969-11-30
+436,nm0518644,2016-11-07,2016-11-07,,Richard Loncraine,Richard III,1946-10-20
+437,nm0467646,2016-11-07,2016-11-07,,Ted Kotcheff,Weekend at Bernie's,1931-04-07
+438,nm0001845,2016-11-07,2016-11-07,,Forest Whitaker,The Last King of Scotland,1961-07-15
+439,nm0958387,2016-11-07,2016-11-07,,Jerry Zucker,Airplane!,1950-03-11
+440,nm0082300,2016-11-07,2016-11-07,,Tony Bill,Flyboys,1940-08-23
+441,nm0705535,2016-11-07,2016-11-07,,Michael Radford,Il postino,1946-02-24
+442,nm0393661,2016-11-07,2016-11-07,,Kevin Hooks,Innerspace,1958-09-19
+443,nm0777881,2016-11-07,2016-11-07,,Robert Schwentke,RED,
+444,nm1491603,2016-11-07,2016-11-07,,Tony Mitchell,The Bible,
+445,nm0137363,2016-11-07,2016-11-07,,Carlo Carlei,La corsa dell'innocente,1960-04-16
+446,nm0275629,2016-11-07,2016-11-07,,Glenn Ficarra,I Love You Phillip Morris,
+447,nm0720135,2016-11-07,2016-11-07,,John Requa,I Love You Phillip Morris,
+448,nm0400486,2016-11-07,2016-11-07,,Bronwen Hughes,The Journey Is the Destination,
+449,nm0000345,2016-11-07,2016-11-07,,Billy Crystal,Forget Paris,1948-03-14
+450,nm0002340,2016-11-07,2016-11-07,,Stuart Gordon,Re-Animator,1947-08-11
+451,nm0677943,2016-11-07,2016-11-07,,Daniel Petrie Jr.,Beverly Hills Cop,
+452,nm0000200,2016-11-07,2016-11-07,,Bill Paxton,Aliens,1955-05-17
+453,nm0000339,2016-11-07,2016-11-07,,Roger Corman,The Silence of the Lambs,1926-04-05
+454,nm0914132,2016-11-07,2016-11-07,,Mark Waters,(500) Days of Summer,1964-06-30
+455,nm0338381,2016-11-07,2016-11-07,,Tom Green,Freddy Got Fingered,1971-07-30
+456,nm0934578,2016-11-07,2016-11-07,,Simon Wincer,The Phantom,
+457,nm0410139,2016-11-07,2016-11-07,,John Irvin,Raw Deal,1940-05-07
+458,nm0853380,2016-11-07,2016-11-07,,Julie Taymor,Frida,1952-12-15
+459,nm0000816,2016-11-07,2016-11-07,,Jon Avnet,Fried Green Tomatoes,1949-11-17
+460,nm0603628,2016-11-07,2016-11-07,,Pierre Morel,Banlieue 13,1964-05-12
+461,nm0031976,2016-11-07,2016-11-07,,Judd Apatow,Girls,1967-12-06
+462,nm0787601,2016-11-07,2016-11-07,,Steven Shainberg,Secretary,1963-02-05
+463,nm2325065,2016-11-07,2016-11-07,,Shane Abbess,Infini,
+464,nm0001355,2016-11-07,2016-11-07,,Michael Hoffman,The Last Station,1956-11-30
+465,nm0006476,2016-11-07,2016-11-07,,Paul McGuigan,Lucky Number Slevin,1963-09-19
+466,nm0281508,2016-11-07,2016-11-07,,Ruben Fleischer,Jekyll,1974-10-31
+467,nm0629272,2016-11-07,2016-11-07,,Andrew Niccol,Gattaca,1964-06-10
+468,nm0443181,2016-11-07,2016-11-07,,Stephen Kay,Get Carter,
+469,nm0641373,2016-11-07,2016-11-07,,Tommy O'Haver,An American Crime,1968-10-24
+470,nm0001756,2016-11-07,2016-11-07,,Barry Sonnenfeld,Men in Black,1953-04-01
+471,nm0222043,2016-11-07,2016-11-07,,Howard Deutch,Some Kind of Wonderful,1950-09-14
+472,nm0065284,2016-11-07,2016-11-07,,Steve Beck,The Abyss,
+473,nm0462895,2016-11-07,2016-11-07,,David Koepp,Jurassic Park,1963-06-09
+474,nm0003355,2016-11-07,2016-11-07,,Christopher Monger,The Englishman Who Went Up a Hill But Came Down a Mountain,
+475,nm0916424,2016-11-07,2016-11-07,,Peter Webber,Girl with a Pearl Earring,
+476,nm0134176,2016-11-07,2016-11-07,,Danny Cannon,CSI: Crime Scene Investigation,
+477,nm0358327,2016-11-07,2016-11-07,,Nick Hamm,Driven,
+478,nm0000197,2016-11-07,2016-11-07,,Jack Nicholson,Chinatown,1937-04-22
+479,nm0000255,2016-11-07,2016-11-07,,Ben Affleck,Argo,1972-08-15
+480,nm0784061,2016-11-07,2016-11-07,,Dominic Sena,Kalifornia,1949-04-26
+481,nm0313227,2016-11-07,2016-11-07,,Henrik Ruben Genz,Frygtelig lykkelig,1959-11-07
+482,nm0236226,2016-11-07,2016-11-07,,Michael Dowse,It's All Gone Pete Tong,1973-04-19
+483,nm0196860,2016-11-07,2016-11-07,,Olivier Dahan,La Môme,1967-06-26
+484,nm0025978,2016-11-07,2016-11-07,,Allison Anders,Gas Food Lodging,1954-11-16
+485,nm0459170,2016-11-07,2016-11-07,,Randal Kleiser,Flight of the Navigator,1946-07-20
+486,nm0591994,2016-11-07,2016-11-07,,Lexi Alexander,Hooligans,1974-08-23
+487,nm0001102,2016-11-07,2016-11-07,,Joe Dante,Innerspace,1946-11-28
+488,nm0193554,2016-11-07,2016-11-07,,Vondie Curtis-Hall,Romeo + Juliet,1950-09-30
+489,nm0677953,2016-11-07,2016-11-07,,Donald Petrie,How to Lose a Guy in 10 Days,1954-04-02
+490,nm0838198,2016-11-07,2016-11-07,,Kevin Rodney Sullivan,Guess Who,1958-08-03
+491,nm1224299,2016-11-07,2016-11-07,,Rob Letterman,Monsters vs. Aliens,
+492,nm0812200,2016-11-07,2016-11-07,,Iain Softley,Backbeat,
+493,nm0281396,2016-11-07,2016-11-07,,Ryan Fleck,Half Nelson,1976-09-20
+494,nm0001874,2016-11-07,2016-11-07,,Franco Zeffirelli,Romeo and Juliet,1923-02-12
+495,nm0000916,2016-11-07,2016-11-07,,Peter Berg,Chicago Hope,1964-03-11
+496,nm1720541,2016-11-07,2016-11-07,,David Slade,Hard Candy,1969-09-26
+497,nm0338719,2016-11-07,2016-11-07,,David Greene,Godspell: A Musical Based on the Gospel According to St. Matthew,1921-02-22
+498,nm0000759,2016-11-07,2016-11-07,,Paul Thomas Anderson,Punch-Drunk Love,1970-06-26
+499,nm0005522,2016-11-07,2016-11-07,,Mario Van Peebles,Heartbreak Ridge,1957-01-15
+500,nm0004121,2016-11-07,2016-11-07,,Mikael Salomon,The Long Road Home,1945-02-24
+501,nm0000552,2016-11-07,2016-11-07,,Eddie Murphy,The Nutty Professor,1961-04-03
+502,nm2905562,2016-11-07,2016-11-07,,Daniel Barber,Harry Brown,
+503,nm0043742,2016-11-07,2016-11-07,,David Ayer,End of Watch,1968-01-18
+504,nm0477129,2016-11-07,2016-11-07,,Ken Kwapis,One Mississippi,1957-08-17
+505,nm0001674,2016-11-07,2016-11-07,,Chris Rock,Top Five,1965-02-07
+506,nm0592400,2016-11-07,2016-11-07,,David Mirkin,The Simpsons,1955-09-18
+507,nm0382956,2016-11-07,2016-11-07,,Scott Hicks,Shine,1953-03-04
+508,nm0878756,2016-11-07,2016-11-07,,Tom Tykwer,Lola rennt,1965-05-23
+509,nm0155093,2016-11-07,2016-11-07,,Peter Chelsom,The Space Between Us,1956-04-20
+510,nm0000519,2016-11-07,2016-11-07,,David Mamet,House of Games,1947-11-30
+511,nm0868219,2016-11-07,2016-11-07,,Guillermo del Toro,El laberinto del fauno,1964-10-09
+512,nm0675068,2016-11-07,2016-11-07,,Frank Perry,Mommie Dearest,1930-08-21
+513,nm0442241,2016-11-07,2016-11-07,,Philip Kaufman,The Right Stuff,1936-10-23
+514,nm0893473,2016-11-07,2016-11-07,,Malcolm Venville,44 Inch Chest,
+515,nm0002653,2016-11-07,2016-11-07,,Joe Johnston,Captain America: The First Avenger,1950-05-13
+516,nm0689852,2016-11-07,2016-11-07,,John Polson,Mission: Impossible II,1965-09-06
+517,nm0611683,2016-11-07,2016-11-07,,Russell Mulcahy,Highlander,1953-06-23
+518,nm3124542,2016-11-07,2016-11-07,,David Palmer,Hit and Run,
+519,nm1009277,2016-11-07,2016-11-07,,Dax Shepard,Hit and Run,1975-01-02
+520,nm1164755,2016-11-07,2016-11-07,,Xavier Gens,The Divide,1975-04-27
+521,nm0002339,2016-11-07,2016-11-07,,Allen Coulter,Remember Me,
+522,nm0000559,2016-11-07,2016-11-07,,Leonard Nimoy,Star Trek IV: The Voyage Home,1931-03-26
+523,nm0000921,2016-11-07,2016-11-07,,Andrew Bergman,Striptease,1945-02-20
+524,nm0014960,2016-11-07,2016-11-07,,Alexandre Aja,Haute tension,1978-08-07
+525,nm1164861,2016-11-07,2016-11-07,,Seth Gordon,Pixels,
+526,nm0744834,2016-11-07,2016-11-07,,Eli Roth,Cabin Fever,1972-04-18
+527,nm0942367,2016-11-07,2016-11-07,,Edgar Wright,Shaun of the Dead,1974-04-18
+528,nm0313623,2016-11-07,2016-11-07,,Terry George,Hotel Rwanda,1952-12-20
+529,nm1429471,2016-11-07,2016-11-07,,Jaume Collet-Serra,The Shallows,1974-03-23
+530,nm0540532,2016-11-07,2016-11-07,,William Malone,House on Haunted Hill,
+531,nm0245888,2016-11-07,2016-11-07,,Jesse Dylan,Kicking & Screaming,1966-01-06
+532,nm0531817,2016-11-07,2016-11-07,,Kevin Macdonald,The Last King of Scotland,1967-10-28
+533,nm0004332,2016-11-07,2016-11-07,,Robert B. Weide,Curb Your Enthusiasm,1959-06-20
+534,nm1140275,2016-11-07,2016-11-07,,Steven Knight,Locke,
+535,nm2588606,2016-11-07,2016-11-07,,Steve McQueen,12 Years a Slave,1969-10-09
+536,nm0200978,2016-11-07,2016-11-07,,Jonathan Darby,Contact,
+537,nm0923330,2016-11-07,2016-11-07,,Tanya Wexler,Hysteria,1970-08-06
+538,nm0001639,2016-11-07,2016-11-07,,Alex Proyas,Dark City,1963-09-23
+539,nm0741262,2016-11-07,2016-11-07,,Bernard Rose,Candyman,1960-08-04
+540,nm0802248,2016-11-07,2016-11-07,,Tarsem Singh,The Fall,1961-05-26
+541,nm1870470,2016-11-07,2016-11-07,,Hayley Cloake,The House of Usher,
+542,nm1732981,2016-11-07,2016-11-07,,Martin McDonagh,In Bruges,1970-03-26
+543,nm0001403,2016-11-07,2016-11-07,,Neil Jordan,The Crying Game,1950-02-25
+544,nm0276062,2016-11-07,2016-11-07,,Todd Field,Little Children,1964-02-24
+545,nm0001005,2016-11-07,2016-11-07,,Jane Campion,The Piano,1954-04-30
+546,nm0851724,2016-11-07,2016-11-07,,Bertrand Tavernier,Un dimanche à la campagne,1941-04-25
+547,nm0406334,2016-11-07,2016-11-07,,Armando Iannucci,The Death of Stalin,1963-11-28
+548,nm0753382,2016-11-07,2016-11-07,,Michael Rymer,Picnic at Hanging Rock,
+549,nm0440859,2016-11-07,2016-11-07,,Adam Kassen,Puncture,1974-05-27
+550,nm0440860,2016-11-07,2016-11-07,,Mark Kassen,Before We Go,1971-10-04
+551,nm0640740,2016-11-07,2016-11-07,,Damien O'Donnell,East Is East,
+552,nm0005509,2016-11-07,2016-11-07,,Jon Turteltaub,Cool Runnings,1963-08-08
+553,nm0753073,2016-11-07,2016-11-07,,Mark Rydell,The Long Goodbye,1929-03-23
+554,nm0007082,2016-11-07,2016-11-07,,John Stockwell,Top Gun,1961-03-25
+555,nm0000576,2016-11-07,2016-11-07,,Sean Penn,Mystic River,1960-08-17
+556,nm0294379,2016-11-07,2016-11-07,,Juan Carlos Fresnadillo,28 Weeks Later,1967-12-05
+557,nm0179697,2016-11-07,2016-11-07,,Ericson Core,The Fast and the Furious,
+558,nm0561938,2016-11-07,2016-11-07,,Elaine May,Small Time Crooks,1932-04-21
+559,nm0270090,2016-11-07,2016-11-07,,Steven Feder,Code Name: Wild Card,
+560,nm0583600,2016-11-07,2016-11-07,,Nancy Meyers,It's Complicated,1949-12-08
+561,nm0003160,2016-11-07,2016-11-07,,Christopher McQuarrie,The Usual Suspects,1968-10-25
+562,nm1333798,2016-11-07,2016-11-07,,Mabrouk El Mechri,JCVD,1976-09-18
+563,nm0732430,2016-11-07,2016-11-07,,Bruce Robinson,Withnail & I,1946-05-02
+564,nm0000108,2016-11-07,2016-11-07,,Luc Besson,The Fifth Element,1959-03-18
+565,nm0836328,2016-11-07,2016-11-07,,John Sturges,The Great Escape,1910-01-03
+566,nm0664756,2016-11-07,2016-11-07,,John Pasquin,The Santa Clause,1945-06-08
+567,nm0821432,2016-11-07,2016-11-07,,Chad Stahelski,John Wick,1968-09-20
+568,nm0371755,2016-11-07,2016-11-07,,Jimmy Hayward,Horton Hears a Who!,
+569,nm0108094,2016-11-07,2016-11-07,,Eric Brevig,Men in Black,
+570,nm0003593,2016-11-07,2016-11-07,,Fred Zinnemann,A Man for All Seasons,1907-04-29
+571,nm0607275,2016-11-07,2016-11-07,,Phil Morrison,Junebug,
+572,nm0718646,2016-11-07,2016-11-07,,Jason Reitman,Up in the Air,1977-10-19
+573,nm0688585,2016-11-07,2016-11-07,,Jean-Marie Poiré,Les visiteurs,1945-07-10
+574,nm0001570,2016-11-07,2016-11-07,,Edward Norton,Keeping the Faith,1969-08-18
+575,nm0425894,2016-11-07,2016-11-07,,Niall Johnson,Keeping Mum,
+576,nm0019242,2016-11-07,2016-11-07,,Daniel Alfredson,Flickan som lekte med elden,1959-05-23
+577,nm0001093,2016-11-07,2016-11-07,,John Dahl,Kill Me Again,
+578,nm0826541,2016-11-07,2016-11-07,,Kriv Stenders,Red Dog,
+579,nm0525659,2016-11-07,2016-11-07,,Robert Luketic,The Ugly Truth,1973-11-01
+580,nm0155280,2016-11-07,2016-11-07,,Kaige Chen,Ba wang bie ji,1952-08-12
+581,nm0001392,2016-11-07,2016-11-07,,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,1961-10-31
+582,nm0911486,2016-11-07,2016-11-07,,David S. Ward,The Sting,1945-10-25
+583,nm0268370,2016-11-07,2016-11-07,,Bobby Farrelly,There's Something About Mary,1958-06-17
+584,nm0000948,2016-11-07,2016-11-07,,Shane Black,Kiss Kiss Bang Bang,1961-12-16
+585,nm0619599,2016-11-07,2016-11-07,,Chris Nahon,Kiss of the Dragon,1968-12-05
+586,nm0002199,2016-11-07,2016-11-07,,Hector Babenco,Carandiru,1946-02-07
+587,nm0002718,2016-11-07,2016-11-07,,Brian Koppelman,Runaway Jury,
+588,nm0199722,2016-11-07,2016-11-07,,Rod Daniel,WKRP in Cincinnati,1942-08-04
+589,nm0788555,2016-11-07,2016-11-07,,Lara Shapiro,The Americans,
+590,nm0751221,2016-11-07,2016-11-07,,Jay Russell,My Dog Skip,1960-01-10
+591,nm0001097,2016-11-07,2016-11-07,,Charles Dance,Gosford Park,1946-10-10
+592,nm0001681,2016-11-07,2016-11-07,,George A. Romero,Land of the Dead,1940-02-04
+593,nm0492979,2016-11-07,2016-11-07,,Ray Lawrence,Lantana,
+594,nm0836430,2016-11-07,2016-11-07,,Charles Sturridge,Strike,1951-06-24
+595,nm0002726,2016-11-07,2016-11-07,,Roger Young,Joseph,1942-05-13
+596,nm0634811,2016-11-07,2016-11-07,,Omid Nooshin,Last Passenger,1974-05-02
+597,nm0000934,2016-11-07,2016-11-07,,Bernardo Bertolucci,Ultimo tango a Parigi,1941-03-16
+598,nm0384825,2016-11-07,2016-11-07,,John Hillcoat,The Road,
+599,nm0241090,2016-11-07,2016-11-07,,John Duigan,The Year My Voice Broke,1949-06-19
+600,nm0891216,2016-11-07,2016-11-07,,Matthew Vaughn,Kick-Ass,1971-03-07
+601,nm0625789,2016-11-07,2016-11-07,,Tim Blake Nelson,"O Brother, Where Art Thou?",1964-05-11
+602,nm0002184,2016-11-07,2016-11-07,,Vic Armstrong,Left Behind,1946-10-05
+603,nm0829820,2016-11-07,2016-11-07,,Scott Stewart,Dark Skies,
+604,nm0000806,2016-11-07,2016-11-07,,Bille August,The House of the Spirits,1948-11-09
+605,nm0716257,2016-11-07,2016-11-07,,Matt Reeves,Let Me In,1966-04-27
+606,nm0004412,2016-11-07,2016-11-07,,Ed Solomon,Men in Black,1960-09-15
+607,nm0804556,2016-11-07,2016-11-07,,Kari Skogland,Fifty Dead Men Walking,
+608,nm1633080,2016-11-07,2016-11-07,,Daniel Schechter,Safe Spaces,
+609,nm0487567,2016-11-07,2016-11-07,,James Lapine,Into the Woods,1949-01-10
+610,nm0831690,2016-11-07,2016-11-07,,Charles Stone III,Drumline,
+611,nm0000626,2016-11-07,2016-11-07,,John Sayles,Lone Star,1950-09-28
+612,nm1139726,2016-11-07,2016-11-07,,Neil Burger,Divergent,
+613,nm0000149,2016-11-07,2016-11-07,,Jodie Foster,The Silence of the Lambs,1962-11-19
+614,nm0002207,2016-11-07,2016-11-07,,Richard Franklin,Hotel Sorrento,1948-07-15
+615,nm0403541,2016-11-07,2016-11-07,,Nick Hurran,Girls' Night,
+616,nm0206760,2016-11-07,2016-11-07,,Jonathan Dayton,Little Miss Sunshine,1957-07-07
+617,nm0267512,2016-11-07,2016-11-07,,Valerie Faris,Little Miss Sunshine,1958-10-20
+618,nm0005540,2016-11-07,2016-11-07,,Keenen Ivory Wayans,In Living Color,1958-06-08
+619,nm0444870,2016-11-07,2016-11-07,,Jon Keeyes,Becky,1969-04-05
+620,nm0000114,2016-11-07,2016-11-07,,Steve Buscemi,Fargo,1957-12-13
+621,nm0142587,2016-11-07,2016-11-07,,Steve Carver,Lone Wolf McQuade,1945-04-05
+622,nm0426059,2016-11-07,2016-11-07,,Rian Johnson,Knives Out,1973-12-17
+623,nm0000850,2016-11-07,2016-11-07,,Clive Barker,Hellraiser,1952-10-05
+624,nm0362566,2016-11-07,2016-11-07,,Catherine Hardwicke,Twilight,1955-10-21
+625,nm0004306,2016-11-07,2016-11-07,,George Miller,Mad Max: Fury Road,1945-03-03
+626,nm0350455,2016-11-07,2016-11-07,,Stephen Gyllenhaal,CBS Afternoon Playhouse,1949-10-04
+627,nm0001068,2016-11-07,2016-11-07,,Sofia Coppola,Lost in Translation,1971-05-14
+628,nm0004838,2016-11-07,2016-11-07,,Martha Coolidge,Valley Girl,1946-08-17
+629,nm0557751,2016-11-07,2016-11-07,,Peter Masterson,The Exorcist,1934-06-01
+630,nm0331516,2016-11-07,2016-11-07,,Ryan Gosling,La La Land,1980-11-12
+631,nm0139111,2016-11-07,2016-11-07,,Glenn Gordon Caron,Moonlighting,
+632,nm0131969,2016-11-07,2016-11-07,,Brandon Camp,Benji,
+633,nm0258531,2016-11-07,2016-11-07,,Rob Epstein,The Celluloid Closet,1955-04-06
+634,nm0295243,2016-11-07,2016-11-07,,Jeffrey Friedman,The Celluloid Closet,1951-08-24
+635,nm0341722,2016-11-07,2016-11-07,,Megan Griffiths,Lucky Them,1975-04-22
+636,nm0001352,2016-11-07,2016-11-07,,Terence Hill,Lo chiamavano Trinità...,1939-03-29
+637,nm0451884,2016-11-07,2016-11-07,,Callie Khouri,Thelma & Louise,1957-11-27
+638,nm0917992,2016-11-07,2016-11-07,,Paul Weiland,Leonard Part 6,1953-07-11
+639,nm3918746,2016-11-07,2016-11-07,,Henry Hobson,Maggie,
+640,nm0911061,2016-11-07,2016-11-07,,Wayne Wang,Smoke,1949-01-12
+641,nm1630273,2016-11-07,2016-11-07,,Phyllida Lloyd,Mamma Mia!,1957-06-17
+642,nm0946750,2016-11-07,2016-11-07,,Gary Yates,Seven Times Lucky,
+643,nm0000876,2016-11-07,2016-11-07,,Noah Baumbach,Marriage Story,1969-09-03
+644,nm0514546,2016-11-07,2016-11-07,,Dwight H. Little,Tekken,1956-01-13
+645,nm0001129,2016-11-07,2016-11-07,,Jonathan Demme,The Silence of the Lambs,1944-02-22
+646,nm0418986,2016-11-07,2016-11-07,,Charles Jarrott,The Secret Life of Algernon,1927-06-16
+647,nm0945026,2016-11-07,2016-11-07,,Boaz Yakin,Fresh,
+648,nm1032759,2016-11-07,2016-11-07,,Barry Skolnick,Mean Machine,1966-10-08
+649,nm0005367,2016-11-07,2016-11-07,,Brian Robbins,Norbit,1963-11-22
+650,nm0005366,2016-11-07,2016-11-07,,Jay Roach,Trumbo,1957-06-14
+651,nm1084723,2016-11-07,2016-11-07,,Chris Fisher,Person of Interest,
+652,nm0000389,2016-11-07,2016-11-07,,Emilio Estevez,The Way,1962-05-12
+653,nm0005703,2016-11-07,2016-11-07,,Don E. FauntLeRoy,Jeepers Creepers,1953-05-05
+654,nm0623768,2016-11-07,2016-11-07,,Ronald Neame,Golden Salamander,1911-04-23
+655,nm0303032,2016-11-07,2016-11-07,,George Gallo,Bad Boys,
+656,nm0132120,2016-11-07,2016-11-07,,Stephen S. Campanelli,Million Dollar Baby,
+657,nm0747849,2016-11-07,2016-11-07,,Joseph Ruben,Dreamscape,1950-05-10
+658,nm0420941,2016-11-07,2016-11-07,,Patty Jenkins,Wonder Woman,1971-07-24
+659,nm0893659,2016-11-07,2016-11-07,,Gore Verbinski,Rango,1964-03-16
+660,nm0070436,2016-11-07,2016-11-07,,Steve Bendelack,Mr. Bean's Holiday,
+661,nm0262595,2016-11-07,2016-11-07,,Bruce A. Evans,Stand by Me,1946-09-19
+662,nm0650561,2016-11-07,2016-11-07,,James Orr,Mr. Destiny,
+663,nm0005033,2016-11-07,2016-11-07,,Sammo Kam-Bo Hung,Yip Man,1952-01-07
+664,nm0004591,2016-11-07,2016-11-07,,John Fasano,Darkness Falls,1961-08-24
+665,nm0389591,2016-11-07,2016-11-07,,P.J. Hogan,Muriel's Wedding,1962-11-30
+666,nm0492909,2016-11-07,2016-11-07,,Marc Lawrence,Miss Congeniality,1959-10-22
+667,nm0325204,2016-11-07,2016-11-07,,Gary David Goldberg,Family Ties,1944-06-25
+668,nm0939182,2016-11-07,2016-11-07,,Kar-Wai Wong,Yi dai zong shi,1956-07-17
+669,nm0001878,2016-11-07,2016-11-07,,David Zucker,Airplane!,1947-10-16
+670,nm0528718,2016-11-07,2016-11-07,,Jonathan Lynn,Clue,1943-04-03
+671,nm0748022,2016-11-07,2016-11-07,,Bruce Joel Rubin,Ghost,1943-03-10
+672,nm0193508,2016-11-07,2016-11-07,,Simon Curtis,My Week with Marilyn,1960-03-11
+673,nm0381478,2016-11-07,2016-11-07,,Jared Hess,Napoleon Dynamite,1979-07-18
+674,nm0005139,2016-11-07,2016-11-07,,Mike Leigh,Secrets & Lies,1943-02-20
+675,nm0428600,2016-11-07,2016-11-07,,Kirk Jones,Waking Ned,1964-10-31
+676,nm0138620,2016-11-07,2016-11-07,,Joe Carnahan,Narc,1969-05-09
+677,nm0853546,2016-11-07,2016-11-07,,Lewis Teague,Cujo,1938-03-08
+678,nm0429964,2016-11-07,2016-11-07,,Gregor Jordan,Two Hands,
+679,nm0381699,2016-11-07,2016-11-07,,Fraser C. Heston,The Ten Commandments,1955-02-12
+680,nm0905592,2016-11-07,2016-11-07,,Jeff Wadlow,Truth or Dare,1976-03-02
+681,nm0355991,2016-11-07,2016-11-07,,Peter Hall,Screen One,1930-11-22
+682,nm0255411,2016-11-07,2016-11-07,,Jonas Elmer,Let's Get Lost,1966-03-14
+683,nm0319659,2016-11-07,2016-11-07,,Dan Gilroy,Nightcrawler,1959-06-24
+684,nm0097079,2016-11-07,2016-11-07,,Ole Bornedal,Nattevagten,1959-05-26
+685,nm0135141,2016-11-07,2016-11-07,,Frank A. Cappello,He Was a Quiet Man,
+686,nm0001590,2016-11-07,2016-11-07,,Chazz Palminteri,The Usual Suspects,1952-05-15
+687,nm0264236,2016-11-07,2016-11-07,,Richard Eyre,Notes on a Scandal,1943-03-28
+688,nm0040575,2016-11-07,2016-11-07,,David Atkins,Arizona Dream,
+689,nm0504642,2016-11-07,2016-11-07,,Louis Leterrier,The Incredible Hulk,1973-06-17
+690,nm2676052,2016-11-07,2016-11-07,,Joseph Kosinski,Tron,1974-05-03
+691,nm0618779,2016-11-07,2016-11-07,,Ruba Nadda,Cairo Time,1972-12-06
+692,nm0000641,2016-11-07,2016-11-07,,Gary Sinise,Forrest Gump,1955-03-17
+693,nm0699933,2016-11-07,2016-11-07,,Luis Puenzo,La historia oficial,1946-02-19
+694,nm0680846,2016-11-07,2016-11-07,,Todd Phillips,Joker,1970-12-20
+695,nm0217433,2016-11-07,2016-11-07,,Gaby Dellal,3 Generations,
+696,nm0000219,2016-11-07,2016-11-07,,Steven Seagal,On Deadly Ground,1952-04-10
+697,nm0001466,2016-11-07,2016-11-07,,Sergio Leone,Once Upon a Time in America,1929-01-03
+698,nm0276349,2016-11-07,2016-11-07,,Shane Meadows,This Is England,1972-12-26
+699,nm0738796,2016-11-07,2016-11-07,,Mark Romanek,One Hour Photo,1959-09-18
+700,nm0958969,2016-11-07,2016-11-07,,Harald Zwart,Den 12. mann,1965-07-01
+701,nm1425385,2016-11-07,2016-11-07,,Jim Loach,Measure of a Man,1969-06-06
+702,nm0642823,2016-11-07,2016-11-07,,Thaddeus O'Sullivan,December Bride,
+703,nm0188165,2016-11-07,2016-11-07,,Michael Cristofer,Original Sin,1945-01-22
+704,nm0643422,2016-11-07,2016-11-07,,Michael Oblowitz,"This World, Then the Fireworks",
+705,nm0891554,2016-11-07,2016-11-07,,Francis Veber,Le dîner de cons,1937-07-28
+706,nm0522393,2016-11-07,2016-11-07,,Nick Love,The Football Factory,1969-12-24
+707,nm0324875,2016-11-07,2016-11-07,,Menahem Golan,The Apple,1929-05-31
+708,nm0609549,2016-11-07,2016-11-07,,Greg Mottola,Adventureland,1964-07-11
+709,nm0019341,2016-11-07,2016-11-07,,Daniel Algrant,Naked in New York,1959-09-25
+710,nm0822101,2016-11-07,2016-11-07,,Glenn Standring,6 Days,
+711,nm0004152,2016-11-07,2016-11-07,,Roel Reiné,Michiel de Ruyter,
+712,nm0610831,2016-11-07,2016-11-07,,Gabriele Muccino,The Pursuit of Happyness,1967-05-20
+713,nm0000265,2016-11-07,2016-11-07,,Robert Altman,Gosford Park,1925-02-20
+714,nm0163706,2016-11-07,2016-11-07,,Bob Clark,A Christmas Story,1939-08-05
+715,nm0001162,2016-11-07,2016-11-07,,Griffin Dunne,After Hours,1955-06-08
+716,nm0946327,2016-11-07,2016-11-07,,Mennan Yapo,Lautlos,
+717,nm0640334,2016-11-07,2016-11-07,,Gavin O'Connor,The Accountant,1963-12-24
+718,nm0950226,2016-11-07,2016-11-07,,Ben Younger,Boiler Room,1972-10-07
+719,nm0898288,2016-11-07,2016-11-07,,Denis Villeneuve,Blade Runner 2049,1967-10-03
+720,nm0481418,2016-11-07,2016-11-07,,Richard LaGravenese,Freedom Writers,1959-10-30
+721,nm0593463,2016-11-07,2016-11-07,,John Cameron Mitchell,Hedwig and the Angry Inch,1963-04-21
+722,nm0866132,2016-11-07,2016-11-07,,Michael Tollin,Radio,1955-10-06
+723,nm0388817,2016-11-07,2016-11-07,,Antony Hoffman,Red Planet,
+724,nm0533564,2016-11-07,2016-11-07,,Gillies MacKinnon,Small Faces,1948-01-08
+725,nm0082802,2016-11-07,2016-11-07,,Mike Binder,Creating 'The Upside of Anger',
+726,nm0001239,2016-11-07,2016-11-07,,John Frankenheimer,The Manchurian Candidate,1930-02-19
+727,nm0794791,2016-11-07,2016-11-07,,Jack Sholder,The Hidden,1945-06-08
+728,nm0936838,2016-11-07,2016-11-07,,Alexander Witt,The Bourne Identity,
+729,nm1216004,2016-11-07,2016-11-07,,Andrew Bujalski,Computer Chess,1977-04-29
+730,nm0001372,2016-11-07,2016-11-07,,Bonnie Hunt,Jumanji,1961-09-22
+731,nm0005614,2016-11-07,2016-11-07,,Stuart Urban,The Secret,1958-09-11
+732,nm0000041,2016-11-07,2016-11-07,,Akira Kurosawa,Kakushi-toride no san-akunin,1910-03-23
+733,nm0002030,2016-11-07,2016-11-07,,George Cukor,My Fair Lady,1899-07-07
+734,nm0000166,2016-11-07,2016-11-07,,Helen Hunt,As Good as It Gets,1963-06-15
+735,nm0146960,2016-11-07,2016-11-07,,Liliana Cavani,Dove siete? Io sono qui,1933-01-12
+736,nm1012501,2016-11-07,2016-11-07,,Rupert Wyatt,Rise of the Planet of the Apes,1972-10-26
+737,nm0208343,2016-11-07,2016-11-07,,Raymond De Felitta,Two Family House,1964-06-30
+738,nm0004305,2016-11-07,2016-11-07,,George Miller,The Man from Snowy River,
+739,nm0655683,2016-11-07,2016-11-07,,José Padilha,Tropa de Elite,1967-08-01
+740,nm1500577,2016-11-07,2016-11-07,,Jake Schreier,Robot & Frank,
+741,nm0906476,2016-11-07,2016-11-07,,David Wain,Wet Hot American Summer,1969-08-01
+742,nm0575389,2016-11-07,2016-11-07,,Peter Medak,The Changeling,1937-12-23
+743,nm0390103,2016-11-07,2016-11-07,,Rod Holcomb,ER,
+744,nm0000513,2016-11-07,2016-11-07,,William H. Macy,Fargo,1950-03-13
+745,nm0001710,2016-11-07,2016-11-07,,David Schwimmer,Friends,1966-11-02
+746,nm0464846,2016-11-07,2016-11-07,,Andrey Konchalovskiy,Belye nochi pochtalyona Alekseya Tryapitsyna,1937-08-20
+747,nm1026778,2016-11-07,2016-11-07,,Brad Furman,The Lincoln Lawyer,
+748,nm0005572,2016-11-07,2016-11-07,,Lili Fini Zanuck,Driving Miss Daisy,1954-04-02
+749,nm0872062,2016-11-07,2016-11-07,,Brian Trenchard-Smith,The Man from Hong Kong,1946-06-01
+750,nm0252135,2016-11-07,2016-11-07,,Breck Eisner,The Crazies,1970-12-24
+751,nm0189610,2016-11-07,2016-11-07,,Christopher Crowe,The Last of the Mohicans,1948-08-01
+752,nm0679031,2016-11-07,2016-11-07,,Brad Peyton,Daybreak,1978-05-27
+753,nm0770234,2016-11-07,2016-11-07,,Jerry Schatzberg,Scarecrow,1927-06-26
+754,nm0002657,2016-11-07,2016-11-07,,Gary Ross,The Hunger Games,1956-11-03
+755,nm0564827,2016-11-07,2016-11-07,,Tim McCanlies,The Iron Giant,
+756,nm0002137,2016-11-07,2016-11-07,,Arthur Hiller,Love Story,1923-11-22
+757,nm1148550,2016-11-07,2016-11-07,,Ava DuVernay,Queen Sugar,1972-08-24
+758,nm0271501,2016-11-07,2016-11-07,,Julian Fellowes,Gosford Park,1949-08-17
+759,nm1204568,2016-11-07,2016-11-07,,David Von Ancken,Seraphim Falls,
+760,nm0081540,2016-11-07,2016-11-07,,Susanne Bier,Hævnen,1960-04-15
+761,nm0923736,2016-11-07,2016-11-07,,Joss Whedon,Buffy the Vampire Slayer,1964-06-23
+762,nm0000691,2016-11-07,2016-11-07,,John Waters,Pecker,1946-04-22
+763,nm0440458,2016-11-07,2016-11-07,,Jake Kasdan,Walk Hard: The Dewey Cox Story,1974-10-28
+764,nm0580729,2016-11-07,2016-11-07,,E. Elias Merhige,Shadow of the Vampire,
+765,nm0662953,2016-11-07,2016-11-07,,Gordon Parks,The Learning Tree,1912-11-30
+766,nm0000797,2016-11-07,2016-11-07,,Hal Ashby,In the Heat of the Night,1929-09-02
+767,nm0275698,2016-11-07,2016-11-07,,Andy Fickman,Race to Witch Mountain,
+768,nm0172877,2016-11-07,2016-11-07,,Laurie Collyer,Sherrybaby,
+769,nm2123102,2016-11-07,2016-11-07,,Eran Creevy,Welcome to the Punch,
+770,nm0911334,2016-11-07,2016-11-07,,Matthew Warchus,Pride,1966-10-24
+771,nm0828623,2016-11-07,2016-11-07,,Michael Stevens,Herblock: The Black & the White,1966-11-21
+772,nm0175775,2016-11-07,2016-11-07,,Kerry Conran,Sky Captain and the World of Tomorrow,1964-11-06
+773,nm0308376,2016-11-07,2016-11-07,,Mick Garris,Amazing Stories,1951-12-04
+774,nm0348181,2016-11-07,2016-11-07,,James Gunn,Guardians of the Galaxy,1966-08-05
+775,nm3304468,2016-11-07,2016-11-07,,John Maclean,Slow West,
+776,nm0263009,2016-11-07,2016-11-07,,Marc Evans,My Little Eye,
+777,nm0094435,2016-11-07,2016-11-07,,Bong Joon Ho,Okja,1969-09-14
+778,nm0053157,2016-11-07,2016-11-07,,Norberto Barba,Mayans M.C.,1963-09-12
+779,nm1512910,2016-11-07,2016-11-07,,Duncan Jones,Moon,1971-05-30
+780,nm0315041,2016-11-07,2016-11-07,,Ricky Gervais,The Office,1961-06-25
+781,nm0000957,2016-11-07,2016-11-07,,Jan de Bont,Speed,1943-10-22
+782,nm0565336,2016-11-07,2016-11-07,,Tom McCarthy,Win Win,1966-06-07
+783,nm0728688,2016-11-07,2016-11-07,,Martin Ritt,Hud,1914-03-02
+784,nm0000091,2016-11-07,2016-11-07,,Gérard Pirès,Taxi,1942-08-31
+785,nm0150707,2016-11-07,2016-11-07,,Gregg Champion,Short Circuit,1956-11-20
+786,nm0281945,2016-11-07,2016-11-07,,Anne Fletcher,The Proposal,1966-05-01
+787,nm0322144,2016-11-07,2016-11-07,,Richard Glatzer,Still Alice,1952-01-28
+788,nm0922903,2016-11-07,2016-11-07,,Wash Westmoreland,Still Alice,1966-03-04
+789,nm0071611,2016-11-07,2016-11-07,,Bill Bennett,Kiss or Kill,
+790,nm0192845,2016-11-07,2016-11-07,,John Curran,Chappaquiddick,1960-09-11
+791,nm0001603,2016-11-07,2016-11-07,,Sam Peckinpah,The Wild Bunch,1925-02-21
+792,nm0527109,2016-11-07,2016-11-07,,Rod Lurie,Nothing But the Truth,1962-05-15
+793,nm0001741,2016-11-07,2016-11-07,,Bryan Singer,X-Men,1965-09-17
+794,nm0574625,2016-11-07,2016-11-07,,James McTeigue,V for Vendetta,
+795,nm0424800,2016-11-07,2016-11-07,,Clark Johnson,S.W.A.T.,1954-09-10
+796,nm0915394,2016-11-07,2016-11-07,,Keoni Waxman,Shooting Gallery,1968-06-30
+797,nm0640466,2016-11-07,2016-11-07,,Pat O'Connor,The Ballroom of Romance,
+798,nm0300866,2016-11-07,2016-11-07,,Stephen Gaghan,Syriana,1965-05-06
+799,nm0001631,2016-11-07,2016-11-07,,Sarah Polley,Dawn of the Dead,1979-01-08
+800,nm0525141,2016-11-07,2016-11-07,,John Luessenhop,Takers,
+801,nm1571761,2016-11-07,2016-11-07,,Sian Heder,Orange Is the New Black,1977-06-23
+802,nm0671957,2016-11-07,2016-11-07,,Arthur Penn,Bonnie and Clyde,1922-09-27
+803,nm0213100,2016-11-07,2016-11-07,,William Dear,Harry and the Hendersons,1944-11-30
+804,nm0006625,2016-11-07,2016-11-07,,Steve Barron,The Durrells,1956-05-04
+805,nm0528381,2016-11-07,2016-11-07,,Liam Lynch,Tenacious D in The Pick of Destiny,1970-09-05
+806,nm0001801,2016-11-07,2016-11-07,,Robert Towne,Chinatown,1934-11-23
+807,nm0542642,2016-11-07,2016-11-07,,Ami Canaan Mann,Jackie & Ryan,
+808,nm0000158,2016-11-07,2016-11-07,,Tom Hanks,Cast Away,1956-07-09
+809,nm0359387,2016-11-07,2016-11-07,,John Lee Hancock,The Blind Side,1956-12-15
+810,nm1497918,2016-11-07,2016-11-07,,Andrew Douglas,Searching for the Wrong-Eyed Jesus,
+811,nm0339004,2016-11-07,2016-11-07,,Luke Greenfield,Let's Be Cops,1972-02-05
+812,nm0240995,2016-11-07,2016-11-07,,Christian Duguay,Human Trafficking,
+813,nm0231596,2016-11-07,2016-11-07,,Andrew Dominik,Chopper,1967-10-07
+814,nm0589182,2016-11-07,2016-11-07,,Rebecca Miller,Maggie's Plan,1962-09-15
+815,nm0436284,2016-11-07,2016-11-07,,Scott Kalvert,The Basketball Diaries,1964-08-15
+816,nm0382584,2016-11-07,2016-11-07,,George Hickenlooper,Dogtown,1963-05-25
+817,nm0939202,2016-11-07,2016-11-07,,Kirk Wong,The Big Hit,
+818,nm0413875,2016-11-07,2016-11-07,,Mick Jackson,The Bodyguard,1943-10-04
+819,nm0037247,2016-11-07,2016-11-07,,Guillermo Arriaga,The Three Burials of Melquiades Estrada,1958-03-13
+820,nm0001774,2016-11-07,2016-11-07,,Ben Stiller,Tropic Thunder,1965-11-30
+821,nm0006916,2016-11-07,2016-11-07,,Michael Ritchie,The Golden Child,1938-11-28
+822,nm0402365,2016-11-07,2016-11-07,,Bruce Hunt,The Matrix,
+823,nm0726472,2016-11-07,2016-11-07,,Adam Rifkin,Dog Years,1966-12-31
+824,nm0320660,2016-11-07,2016-11-07,,François Girard,Le violon rouge,1963-01-12
+825,nm0011470,2016-11-07,2016-11-07,,Andrew Adamson,Shrek 2,1966-12-01
+826,nm3018890,2016-11-07,2016-11-07,,Sam Kadi,The Citizen,
+827,nm0115764,2016-11-07,2016-11-07,,Pieter Jan Brugge,127 Hours,
+828,nm0007045,2016-11-07,2016-11-07,,Scott Wiper,The Cold Light of Day,1970-07-22
+829,nm0576987,2016-11-07,2016-11-07,,Fernando Meirelles,Blindness,1955-11-09
+830,nm0750857,2016-11-07,2016-11-07,,Josef Rusnak,The Thirteenth Floor,1958-11-25
+831,nm0000425,2016-11-07,2016-11-07,,Peter Greenaway,"The Cook, the Thief, His Wife & Her Lover",1942-04-05
+832,nm0281598,2016-11-07,2016-11-07,,Andrew Fleming,The Craft,1965-12-30
+833,nm0393799,2016-11-07,2016-11-07,,Tom Hooper,The Danish Girl,1972-10-05
+834,nm0027572,2016-11-07,2016-11-07,,Wes Anderson,Fantastic Mr. Fox,1969-05-01
+835,nm0220600,2016-11-07,2016-11-07,,Scott Derrickson,Doctor Strange,1966-07-16
+836,nm0824882,2016-11-07,2016-11-07,,Burr Steers,Igby Goes Down,1965-10-08
+837,nm0291205,2016-11-07,2016-11-07,,David Frankel,The Devil Wears Prada,1959-04-02
+838,nm0000736,2016-11-07,2016-11-07,,Robert Aldrich,What Ever Happened to Baby Jane?,1918-08-09
+839,nm0931095,2016-11-07,2016-11-07,,Tod Williams,The Door in the Floor,1968-09-27
+840,nm1547964,2016-11-07,2016-11-07,,Richard Ayoade,Submarine,1977-05-23
+841,nm1742427,2016-11-07,2016-11-07,,Michaël R. Roskam,The Drop,1972-10-09
+842,nm0201061,2016-11-07,2016-11-07,,Kieran Darcy-Smith,Wish You Were Here,1965-06-12
+843,nm0151540,2016-11-07,2016-11-07,,Jay Chandrasekhar,Super Troopers,1968-04-09
+844,nm2610231,2016-11-07,2016-11-07,,Zal Batmanglij,The OA,
+845,nm0851930,2016-11-07,2016-11-07,,Alan Taylor,Game of Thrones,
+846,nm0957197,2016-11-07,2016-11-07,,Craig Zisk,The Looming Tower,
+847,nm0836715,2016-11-07,2016-11-07,,Philipp Stölzl,Nordwand,
+848,nm0658837,2016-11-07,2016-11-07,,Xavier Palud,Ils,
+849,nm0080120,2016-11-07,2016-11-07,,Thomas Bezucha,The Family Stone,1964-03-08
+850,nm0706883,2016-11-07,2016-11-07,,Steve Railsback,The Stunt Man,1945-11-16
+851,nm1069989,2016-11-07,2016-11-07,,Olatunde Osunsanmi,Within,1977-10-23
+852,nm0718554,2016-11-07,2016-11-07,,Karel Reisz,Saturday Night and Sunday Morning,1926-07-21
+853,nm1960428,2016-11-07,2016-11-07,,Scott Walker,The Frozen Ground,1971-05-10
+854,nm0146341,2016-11-07,2016-11-07,,Peter Cattaneo,The Full Monty,1964-07-01
+855,nm0249291,2016-11-07,2016-11-07,,Joel Edgerton,The Gift,1974-06-23
+856,nm0755261,2016-11-07,2016-11-07,,Daniel Sackheim,True Detective,
+857,nm0336726,2016-11-07,2016-11-07,,John Gray,White Irish Drinkers,
+858,nm0198472,2016-11-07,2016-11-07,,Lance Daly,Kisses,
+859,nm0037708,2016-11-07,2016-11-07,,Miguel Arteta,The Good Girl,
+860,nm0001104,2016-11-07,2016-11-07,,Frank Darabont,The Green Mile,1959-01-28
+861,nm0902939,2016-11-07,2016-11-07,,Daisy von Scherler Mayer,Madeline,1966-09-14
+862,nm1433996,2016-11-07,2016-11-07,,Peter Cornwell,Ward 13,
+863,nm0635760,2016-11-07,2016-11-07,,Aaron Norris,"Walker, Texas Ranger",1951-11-23
+864,nm0724798,2016-11-07,2016-11-07,,Tony Richardson,A Taste of Honey,1928-06-05
+865,nm0197636,2016-11-07,2016-11-07,,Stephen Daldry,The Reader,1960-05-02
+866,nm0493369,2016-11-07,2016-11-07,,J.F. Lawton,Pretty Woman,1960-08-11
+867,nm1033517,2016-11-07,2016-11-07,,Ariel Vromen,The Iceman,1973-02-14
+868,nm0386570,2016-11-07,2016-11-07,,Oliver Hirschbiegel,Das Experiment,1957-12-29
+869,nm0562266,2016-11-07,2016-11-07,,John Maybury,Love Is the Devil: Study for a Portrait of Francis Bacon,
+870,nm0842523,2016-11-07,2016-11-07,,Robin Swicord,The Curious Case of Benjamin Button,
+871,nm0097517,2016-11-07,2016-11-07,,Derrick Borte,American Dreamer,1967-12-07
+872,nm0814085,2016-11-07,2016-11-07,,Stephen Sommers,G.I. Joe: The Rise of Cobra,1962-03-20
+873,nm0001270,2016-11-07,2016-11-07,,Brian Gibson,Frida,1944-09-22
+874,nm0002159,2016-11-07,2016-11-07,,Alejandro Agresti,Buenos Aires Vice Versa,1961-06-02
+875,nm1531934,2016-11-07,2016-11-07,,Dennis Iliadis,The Last House on the Left,
+876,nm0453518,2016-11-07,2016-11-07,,Jee-woon Kim,Joheunnom nabbeunnom isanghannom,1964-05-27
+877,nm0001015,2016-11-07,2016-11-07,,Robert Carlyle,The Full Monty,1961-04-14
+878,nm0322515,2016-11-07,2016-11-07,,John Glen,For Your Eyes Only,1932-05-15
+879,nm0487166,2016-11-07,2016-11-07,,Yorgos Lanthimos,The Lobster,
+880,nm0887452,2016-11-07,2016-11-07,,Erik Van Looy,De zaak Alzheimer,1962-04-26
+881,nm0000412,2016-11-07,2016-11-07,,Andy Garcia,Ocean's Eleven,1956-04-12
+882,nm0151066,2016-11-07,2016-11-07,,Peter Ho-Sun Chan,Tau ming chong,1962-11-28
+883,nm0405336,2016-11-07,2016-11-07,,Nicholas Hytner,The Madness of King George,1956-05-07
+884,nm0611932,2016-11-07,2016-11-07,,Peter Mullan,The Magdalene Sisters,1959-11-02
+885,nm0908824,2016-11-07,2016-11-07,,Randall Wallace,We Were Soldiers,1949-07-28
+886,nm0423623,2016-11-07,2016-11-07,,Mark Joffe,Working Class Boy,
+887,nm0357891,2016-11-07,2016-11-07,,Guy Hamilton,Live and Let Die,1922-09-16
+888,nm0715916,2016-11-07,2016-11-07,,Jerry Rees,The Brave Little Toaster,1956-11-15
+889,nm0791672,2016-11-07,2016-11-07,,Richard Shepard,The Matador,
+890,nm0381416,2016-11-07,2016-11-07,,Grant Heslov,Argo,1963-05-15
+891,nm0457565,2016-11-07,2016-11-07,,Ryûhei Kitamura,The Midnight Meat Train,1969-05-30
+892,nm0000694,2016-11-07,2016-11-07,,Wim Wenders,Der Himmel über Berlin,1945-08-14
+893,nm0000659,2016-11-07,2016-11-07,,Barbra Streisand,Funny Girl,1942-04-24
+894,nm0054504,2016-11-07,2016-11-07,,Kasper Barfoed,Sommeren '92,1972-03-07
+895,nm1130275,2016-11-07,2016-11-07,,Nicholas McCarthy,The Pact,
+896,nm0000774,2016-11-07,2016-11-07,,Michelangelo Antonioni,Blowup,1912-09-29
+897,nm0004689,2016-11-07,2016-11-07,,Frédéric Forestier,Astérix aux jeux olympiques,
+898,nm2357819,2016-11-07,2016-11-07,,Brian A. Miller,Vice,
+899,nm0638913,2016-11-07,2016-11-07,,Ron Nyswaner,Philadelphia,1956-10-05
+900,nm0378144,2016-11-07,2016-11-07,,Jonathan Hensleigh,Armageddon,1959-02-13
+901,nm0218621,2016-11-07,2016-11-07,,James DeMonaco,The Purge: Anarchy,
+902,nm0000241,2016-11-07,2016-11-07,,Jean-Claude Van Damme,Double Impact,1960-10-18
+903,nm0294505,2016-11-07,2016-11-07,,Bart Freundlich,The Myth of Fingerprints,1970-01-17
+904,nm0000812,2016-11-07,2016-11-07,,Roger Avary,Lucky Day,1965-08-23
+905,nm0797455,2016-11-07,2016-11-07,,Floria Sigismondi,The Runaways,
+906,nm0001274,2016-11-07,2016-11-07,,Paul Michael Glaser,Starsky and Hutch,1943-03-25
+907,nm0192289,2016-11-07,2016-11-07,,David L. Cunningham,To End All Wars,1971-02-24
+908,nm0282708,2016-11-07,2016-11-07,,Isaac Florentine,Undisputed II: Last Man Standing,
+909,nm0330360,2016-11-07,2016-11-07,,Keith Gordon,A Midnight Clear,1961-02-03
+910,nm0370510,2016-11-07,2016-11-07,,John Hay,Lost Christmas,
+911,nm1197971,2016-11-07,2016-11-07,,Marcus Nispel,The Texas Chainsaw Massacre,1963-05-26
+912,nm0920425,2016-11-07,2016-11-07,,Simon Wells,The Time Machine,
+913,nm0003697,2016-11-07,2016-11-07,,Florian Henckel von Donnersmarck,Das Leben der Anderen,1973-05-02
+914,nm0597673,2016-11-07,2016-11-07,,Karen Moncrieff,13 Reasons Why,1963-12-20
+915,nm0006860,2016-11-07,2016-11-07,,Damian Lee,"Abraxas, Guardian of the Universe",
+916,nm1019493,2016-11-07,2016-11-07,,Kevin Donovan,The Tuxedo,
+917,nm0024925,2016-11-07,2016-11-07,,Hossein Amini,Drive,
+918,nm0572951,2016-11-07,2016-11-07,,Tom McLoughlin,Friday the 13th Part VI: Jason Lives,1950-07-19
+919,nm0806293,2016-11-07,2016-11-07,,George Sluizer,Spoorloos,1932-06-25
+920,nm2277869,2016-11-07,2016-11-07,,Marjane Satrapi,Persepolis,1969-11-22
+921,nm0152741,2016-11-07,2016-11-07,,Joe Charbanic,The Watcher,
+922,nm0000128,2016-11-07,2016-11-07,,Russell Crowe,Les Misérables,1964-04-07
+923,nm0453270,2016-11-07,2016-11-07,,Clare Kilner,The Wedding Date,
+924,nm2326979,2016-11-07,2016-11-07,,Larysa Kondracki,The Whistleblower,
+925,nm0516360,2016-11-07,2016-11-07,,Ken Loach,"I, Daniel Blake",1936-06-17
+926,nm1220140,2016-11-07,2016-11-07,,James Watkins,Eden Lake,
+927,nm0000698,2016-11-07,2016-11-07,,Gene Wilder,Willy Wonka & the Chocolate Factory,1933-06-11
+928,nm0004810,2016-11-07,2016-11-07,,Chris Carter,The X Files,1956-10-13
+929,nm0336695,2016-11-07,2016-11-07,,James Gray,Ad Astra,1969-04-14
+930,nm0885249,2016-11-07,2016-11-07,,Jean-Marc Vallée,C.R.A.Z.Y.,1963-03-09
+931,nm2128335,2016-11-07,2016-11-07,,J Blakeson,The Disappearance of Alice Creed,
+932,nm0726638,2016-11-07,2016-11-07,,Patricia Riggen,The 33,1970-06-02
+933,nm0950553,2016-11-07,2016-11-07,,Ronny Yu,Huo Yuan Jia,
+934,nm0764319,2016-11-07,2016-11-07,,Damon Santostefano,Best Player,
+935,nm0696309,2016-11-07,2016-11-07,,Michael Pressman,Picket Fences,1950-07-01
+936,nm0936482,2016-11-07,2016-11-07,,Len Wiseman,Underworld,1973-03-04
+937,nm0618680,2016-11-07,2016-11-07,,Jeffrey Nachmanoff,Traitor,1967-03-09
+938,nm0002892,2016-11-07,2016-11-07,,Wally Pfister,Inception,1961-07-08
+939,nm0125111,2016-11-07,2016-11-07,,Robert Butler,Remington Steele,1927-11-16
+940,nm0098953,2016-11-07,2016-11-07,,Rachid Bouchareb,Indigènes,1959-09-01
+941,nm0455394,2016-11-07,2016-11-07,,Zalman King,Nine 1/2 Weeks,1942-05-23
+942,nm0874096,2016-11-07,2016-11-07,,Fernando Trueba,Belle Epoque,1955-01-18
+943,nm0002700,2016-11-07,2016-11-07,,Malcolm D. Lee,Girls Trip,1970-01-11
+944,nm0734747,2016-11-07,2016-11-07,,Mic Rodgers,Hacksaw Ridge,
+945,nm0087595,2016-11-07,2016-11-07,,Jamie Blanks,Urban Legend,
+946,nm0871428,2016-11-07,2016-11-07,,Pete Travis,Vantage Point,
+947,nm0156417,2016-11-07,2016-11-07,,Lionel Chetwynd,Ike: Countdown to D-Day,1940-01-29
+948,nm4320125,2016-11-07,2016-11-07,,Mukunda Michael Dewil,Vehicle 19,
+949,nm0437596,2016-11-07,2016-11-07,,Jeff Kanew,Revenge of the Nerds,1944-12-16
+950,nm2819316,2016-11-07,2016-11-07,,Geoffrey Fletcher,Precious,1970-10-04
+951,nm0067457,2016-11-07,2016-11-07,,Timur Bekmambetov,Nochnoy dozor,1961-06-25
+952,nm0041161,2016-11-07,2016-11-07,,Philip G. Atwell,War,
+953,nm0790715,2016-11-07,2016-11-07,,Penelope Spheeris,Suburbia,1945-12-02
+954,nm0085438,2016-11-07,2016-11-07,,Michael Ian Black,Stella,1971-08-12
+955,nm0911910,2016-11-07,2016-11-07,,Vincent Ward,The Navigator: A Mediaeval Odyssey,1956-02-16
+956,nm0918873,2016-11-07,2016-11-07,,Sam Weisman,George of the Jungle,
+957,nm0620290,2016-11-07,2016-11-07,,Desmond Nakano,American Pastime,
+958,nm0467225,2016-11-07,2016-11-07,,Peter Kosminsky,No Child of Mine,1956-04-21
+959,nm0001692,2016-11-07,2016-11-07,,Ken Russell,The Devils,1927-07-03
+960,nm0414423,2016-11-07,2016-11-07,,Gregory Jacobs,Edge of Tomorrow,
+961,nm0335138,2016-11-07,2016-11-07,,Debra Granik,Leave No Trace,1963-02-06
+962,nm0003343,2016-11-07,2016-11-07,,Rob Schmidt,Wrong Turn,1965-09-25
+963,nm0751577,2016-11-07,2016-11-07,,Anthony Russo,Avengers: Endgame,1970-02-03
+964,nm0751648,2016-11-07,2016-11-07,,Joe Russo,Avengers: Endgame,1971-07-08
+965,nm0957505,2016-11-07,2016-11-07,,Craig Zobel,Compliance,
+966,nm0432627,2016-11-07,2016-11-07,,Gil Junger,If Only,1954-11-07
+967,nm0381273,2016-11-07,2016-11-07,,John Herzfeld,15 Minutes,
