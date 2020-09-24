@@ -1,5 +1,5 @@
 # TMDBBoxOfficePrediction
-My shoot on predicting movie revenue for the Kaggle TMDBBox Office Prediction challange
+Our shoot on predicting movie revenue for the Kaggle TMDBBox Office Prediction challange
 https://www.kaggle.com/c/tmdb-box-office-prediction
 
 ![0001](https://user-images.githubusercontent.com/26842519/94174648-3f639480-fe9e-11ea-8127-d4ffee35c31e.jpg)
